@@ -1,0 +1,2 @@
+Pair,Cosine Similarity (Mean),Pearson Correlation (Mean),Normalized Cross-Correlation (Mean),Lag at Max NCC (Y),Lag at Max NCC (Z)
+a2c_naturecnn_depth_leavesFalling_positions.csv vs ppo_naturecnn_depth_leavesFalling_positions.csv,0.9945,0.9823,0.9824,1,0

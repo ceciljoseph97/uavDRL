@@ -1,0 +1,362 @@
+2024-12-06 20:16:06,381 [INFO] Logging initialized for scenario: 'Depth_A2CvsPPO_LeavesFalling_Variants'
+2024-12-06 20:16:06,381 [INFO] Received command-line arguments: Scenario='Depth_A2CvsPPO_LeavesFalling_Variants', Filenames=['D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\LeavesFalling\\a2c_naturecnn_depth_leavesFalling\\a2c_naturecnn_depth_leavesFalling_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\LeavesFalling\\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\LeavesFalling\\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\LeavesFalling\\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\LeavesFalling\\ppo_naturecnn_depth_leavesFalling\\ppo_naturecnn_depth_leavesFalling_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\LeavesFalling\\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\LeavesFalling\\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\LeavesFalling\\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv']
+2024-12-06 20:16:06,382 [INFO] Starting to plot multiple mean trajectories.
+2024-12-06 20:16:06,527 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv'.
+2024-12-06 20:16:06,528 [INFO] Episode 1 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,530 [INFO] Episode 5 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,531 [INFO] Episode 11 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,533 [INFO] Episode 16 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,533 [INFO] Episode 17 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,536 [INFO] Episode 21 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,537 [INFO] Episode 24 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,538 [INFO] Episode 25 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,539 [INFO] Episode 28 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,540 [INFO] Episode 29 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,540 [INFO] Episode 30 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,541 [INFO] Episode 31 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,541 [INFO] Episode 32 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,542 [INFO] Episode 33 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,543 [INFO] Episode 38 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,544 [INFO] Episode 41 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,546 [INFO] Episode 42 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,548 [INFO] Episode 53 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,549 [INFO] Episode 54 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,550 [INFO] Episode 55 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,551 [INFO] Episode 57 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,552 [INFO] Episode 59 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,556 [INFO] Episode 64 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,557 [INFO] Episode 66 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,559 [INFO] Episode 71 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,559 [INFO] Episode 72 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,560 [INFO] Episode 74 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,561 [INFO] Episode 77 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,562 [INFO] Episode 80 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,562 [INFO] Episode 82 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,564 [INFO] Episode 86 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,565 [INFO] Episode 88 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,566 [INFO] Episode 91 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,566 [INFO] Episode 93 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,568 [INFO] Episode 96 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,569 [INFO] Episode 97 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,570 [INFO] Episode 98 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,570 [INFO] Episode 99 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_leavesFalling\a2c_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,588 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv'.
+2024-12-06 20:16:06,590 [INFO] Episode 3 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,593 [INFO] Episode 16 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,595 [INFO] Episode 19 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,598 [INFO] Episode 32 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,599 [INFO] Episode 33 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,601 [INFO] Episode 37 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,604 [INFO] Episode 43 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,604 [INFO] Episode 44 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,606 [INFO] Episode 48 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,607 [INFO] Episode 51 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,612 [INFO] Episode 67 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,612 [INFO] Episode 68 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,614 [INFO] Episode 72 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,614 [INFO] Episode 73 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,614 [INFO] Episode 76 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,618 [INFO] Episode 85 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,620 [INFO] Episode 89 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,623 [INFO] Episode 95 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,624 [INFO] Episode 99 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,643 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv'.
+2024-12-06 20:16:06,645 [INFO] Episode 1 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,646 [INFO] Episode 6 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,647 [INFO] Episode 7 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,648 [INFO] Episode 9 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,648 [INFO] Episode 10 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,649 [INFO] Episode 11 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,650 [INFO] Episode 16 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,651 [INFO] Episode 17 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,652 [INFO] Episode 20 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,655 [INFO] Episode 27 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,656 [INFO] Episode 30 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,656 [INFO] Episode 31 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,657 [INFO] Episode 32 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,662 [INFO] Episode 47 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,664 [INFO] Episode 53 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,666 [INFO] Episode 57 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,667 [INFO] Episode 62 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,670 [INFO] Episode 69 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,674 [INFO] Episode 83 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,678 [INFO] Episode 93 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,679 [INFO] Episode 97 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,741 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv'.
+2024-12-06 20:16:06,744 [INFO] Episode 6 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,746 [INFO] Episode 10 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,748 [INFO] Episode 12 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,748 [INFO] Episode 14 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,750 [INFO] Episode 16 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,751 [INFO] Episode 20 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,752 [INFO] Episode 21 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,754 [INFO] Episode 25 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,756 [INFO] Episode 28 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,756 [INFO] Episode 29 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,758 [INFO] Episode 33 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,759 [INFO] Episode 35 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,760 [INFO] Episode 39 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,770 [INFO] Episode 73 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,773 [INFO] Episode 82 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,774 [INFO] Episode 83 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,776 [INFO] Episode 88 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,777 [INFO] Episode 90 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,779 [INFO] Episode 96 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,794 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv'.
+2024-12-06 20:16:06,796 [INFO] Episode 2 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,796 [INFO] Episode 4 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,797 [INFO] Episode 6 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,800 [INFO] Episode 11 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,801 [INFO] Episode 13 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,802 [INFO] Episode 14 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,803 [INFO] Episode 15 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,804 [INFO] Episode 17 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,805 [INFO] Episode 19 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,806 [INFO] Episode 22 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,807 [INFO] Episode 25 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,807 [INFO] Episode 26 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,809 [INFO] Episode 28 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,810 [INFO] Episode 31 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,810 [INFO] Episode 32 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,811 [INFO] Episode 33 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,812 [INFO] Episode 38 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,812 [INFO] Episode 39 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,815 [INFO] Episode 44 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,816 [INFO] Episode 47 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,816 [INFO] Episode 49 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,817 [INFO] Episode 51 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,820 [INFO] Episode 56 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,821 [INFO] Episode 58 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,821 [INFO] Episode 59 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,822 [INFO] Episode 61 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,822 [INFO] Episode 62 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,823 [INFO] Episode 63 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,824 [INFO] Episode 65 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,824 [INFO] Episode 66 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,824 [INFO] Episode 67 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,826 [INFO] Episode 68 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,827 [INFO] Episode 70 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,827 [INFO] Episode 71 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,829 [INFO] Episode 74 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,830 [INFO] Episode 78 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,832 [INFO] Episode 82 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,832 [INFO] Episode 85 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,833 [INFO] Episode 88 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,835 [INFO] Episode 92 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,836 [INFO] Episode 93 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,837 [INFO] Episode 95 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,838 [INFO] Episode 97 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,838 [INFO] Episode 98 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,839 [INFO] Episode 99 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_leavesFalling\ppo_naturecnn_depth_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,855 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv'.
+2024-12-06 20:16:06,860 [INFO] Episode 16 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,861 [INFO] Episode 18 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,862 [INFO] Episode 20 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,865 [INFO] Episode 28 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,871 [INFO] Episode 43 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,872 [INFO] Episode 45 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,872 [INFO] Episode 48 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,874 [INFO] Episode 52 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,876 [INFO] Episode 60 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,883 [INFO] Episode 85 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,886 [INFO] Episode 94 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,904 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv'.
+2024-12-06 20:16:06,914 [INFO] Episode 24 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,916 [INFO] Episode 27 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,921 [INFO] Episode 42 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,924 [INFO] Episode 54 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,930 [INFO] Episode 78 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,931 [INFO] Episode 83 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,932 [INFO] Episode 86 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,936 [INFO] Episode 96 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,936 [INFO] Episode 98 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling\ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,953 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv'.
+2024-12-06 20:16:06,956 [INFO] Episode 1 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,956 [INFO] Episode 4 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,958 [INFO] Episode 10 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,960 [INFO] Episode 12 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,960 [INFO] Episode 13 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,962 [INFO] Episode 19 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,964 [INFO] Episode 23 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,966 [INFO] Episode 26 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,967 [INFO] Episode 28 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,968 [INFO] Episode 32 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,970 [INFO] Episode 36 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,972 [INFO] Episode 40 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,973 [INFO] Episode 41 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,974 [INFO] Episode 45 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,974 [INFO] Episode 46 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,978 [INFO] Episode 54 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,979 [INFO] Episode 57 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,982 [INFO] Episode 64 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,985 [INFO] Episode 69 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,986 [INFO] Episode 71 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,988 [INFO] Episode 74 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,990 [INFO] Episode 81 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,993 [INFO] Episode 94 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,994 [INFO] Episode 95 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,995 [INFO] Episode 96 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:06,995 [INFO] Episode 98 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\LeavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling\ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:16:07,002 [INFO] Wall positions determined at: [3.7, 7.4, 11.100000000000001, 14.8, 18.5, 22.2]
+2024-12-06 20:16:07,006 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_leavesFalling_positions.csv' with color 'blue'.
+2024-12-06 20:16:07,007 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' with color 'green'.
+2024-12-06 20:16:07,009 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' with color 'orange'.
+2024-12-06 20:16:07,011 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' with color 'purple'.
+2024-12-06 20:16:07,012 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_leavesFalling_positions.csv' with color 'cyan'.
+2024-12-06 20:16:07,013 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' with color 'magenta'.
+2024-12-06 20:16:07,014 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' with color 'yellow'.
+2024-12-06 20:16:07,016 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' with color 'brown'.
+2024-12-06 20:16:07,069 [INFO] Added wall surface at X=3.7 with Trajectory Variations and Passages.
+2024-12-06 20:16:07,129 [INFO] Added wall surface at X=7.4 with Trajectory Variations and Passages.
+2024-12-06 20:16:07,182 [INFO] Added wall surface at X=11.100000000000001 with Trajectory Variations and Passages.
+2024-12-06 20:16:07,232 [INFO] Added wall surface at X=14.8 with Trajectory Variations and Passages.
+2024-12-06 20:16:07,288 [INFO] Added wall surface at X=18.5 with Trajectory Variations and Passages.
+2024-12-06 20:16:07,290 [WARNING] No data near wall at X=22.2. Skipping hole creation.
+2024-12-06 20:16:07,290 [INFO] Completed plotting walls and holes.
+2024-12-06 20:16:07,483 [INFO] Similarity between 'a2c_naturecnn_depth_leavesFalling_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv':
+2024-12-06 20:16:07,484 [INFO]   - Cosine Similarity (Mean): 0.4233
+2024-12-06 20:16:07,484 [INFO]   - Pearson Correlation (Mean): 0.7896
+2024-12-06 20:16:07,484 [INFO]   - Normalized Cross-Correlation (Mean): 0.7990
+2024-12-06 20:16:07,484 [INFO]   - Lag at Max NCC (Y): -4, (Z): -5
+2024-12-06 20:16:07,494 [INFO] Similarity between 'a2c_naturecnn_depth_leavesFalling_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv':
+2024-12-06 20:16:07,494 [INFO]   - Cosine Similarity (Mean): 0.9317
+2024-12-06 20:16:07,495 [INFO]   - Pearson Correlation (Mean): 0.8458
+2024-12-06 20:16:07,495 [INFO]   - Normalized Cross-Correlation (Mean): 0.8524
+2024-12-06 20:16:07,495 [INFO]   - Lag at Max NCC (Y): 0, (Z): -5
+2024-12-06 20:16:07,507 [INFO] Similarity between 'a2c_naturecnn_depth_leavesFalling_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv':
+2024-12-06 20:16:07,508 [INFO]   - Cosine Similarity (Mean): 0.7053
+2024-12-06 20:16:07,508 [INFO]   - Pearson Correlation (Mean): 0.8260
+2024-12-06 20:16:07,508 [INFO]   - Normalized Cross-Correlation (Mean): 0.8793
+2024-12-06 20:16:07,508 [INFO]   - Lag at Max NCC (Y): -10, (Z): -12
+2024-12-06 20:16:07,520 [INFO] Similarity between 'a2c_naturecnn_depth_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_leavesFalling_positions.csv':
+2024-12-06 20:16:07,520 [INFO]   - Cosine Similarity (Mean): 0.9945
+2024-12-06 20:16:07,520 [INFO]   - Pearson Correlation (Mean): 0.9823
+2024-12-06 20:16:07,520 [INFO]   - Normalized Cross-Correlation (Mean): 0.9824
+2024-12-06 20:16:07,522 [INFO]   - Lag at Max NCC (Y): 1, (Z): 0
+2024-12-06 20:16:07,535 [INFO] Similarity between 'a2c_naturecnn_depth_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv':
+2024-12-06 20:16:07,536 [INFO]   - Cosine Similarity (Mean): 0.9070
+2024-12-06 20:16:07,536 [INFO]   - Pearson Correlation (Mean): 0.7341
+2024-12-06 20:16:07,536 [INFO]   - Normalized Cross-Correlation (Mean): 0.8245
+2024-12-06 20:16:07,536 [INFO]   - Lag at Max NCC (Y): -2, (Z): -25
+2024-12-06 20:16:07,548 [INFO] Similarity between 'a2c_naturecnn_depth_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv':
+2024-12-06 20:16:07,548 [INFO]   - Cosine Similarity (Mean): 0.9610
+2024-12-06 20:16:07,549 [INFO]   - Pearson Correlation (Mean): 0.8777
+2024-12-06 20:16:07,549 [INFO]   - Normalized Cross-Correlation (Mean): 0.9160
+2024-12-06 20:16:07,549 [INFO]   - Lag at Max NCC (Y): 2, (Z): -11
+2024-12-06 20:16:08,023 [INFO] Cross-correlation plot saved as 'inference_outputs\Depth_A2CvsPPO_LeavesFalling_Variants\Depth_A2CvsPPO_LeavesFalling_Variants_cross_correlation_part1.png'.
+2024-12-06 20:16:08,196 [INFO] Similarity between 'a2c_naturecnn_depth_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv':
+2024-12-06 20:16:08,196 [INFO]   - Cosine Similarity (Mean): 0.9488
+2024-12-06 20:16:08,198 [INFO]   - Pearson Correlation (Mean): 0.8292
+2024-12-06 20:16:08,198 [INFO]   - Normalized Cross-Correlation (Mean): 0.8725
+2024-12-06 20:16:08,198 [INFO]   - Lag at Max NCC (Y): 2, (Z): -13
+2024-12-06 20:16:08,207 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv':
+2024-12-06 20:16:08,207 [INFO]   - Cosine Similarity (Mean): 0.5764
+2024-12-06 20:16:08,207 [INFO]   - Pearson Correlation (Mean): 0.9032
+2024-12-06 20:16:08,208 [INFO]   - Normalized Cross-Correlation (Mean): 0.9032
+2024-12-06 20:16:08,208 [INFO]   - Lag at Max NCC (Y): 0, (Z): 0
+2024-12-06 20:16:08,219 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv':
+2024-12-06 20:16:08,219 [INFO]   - Cosine Similarity (Mean): 0.8322
+2024-12-06 20:16:08,219 [INFO]   - Pearson Correlation (Mean): 0.8892
+2024-12-06 20:16:08,220 [INFO]   - Normalized Cross-Correlation (Mean): 0.9007
+2024-12-06 20:16:08,220 [INFO]   - Lag at Max NCC (Y): -5, (Z): -7
+2024-12-06 20:16:08,233 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_leavesFalling_positions.csv':
+2024-12-06 20:16:08,233 [INFO]   - Cosine Similarity (Mean): 0.4254
+2024-12-06 20:16:08,233 [INFO]   - Pearson Correlation (Mean): 0.7743
+2024-12-06 20:16:08,234 [INFO]   - Normalized Cross-Correlation (Mean): 0.7829
+2024-12-06 20:16:08,234 [INFO]   - Lag at Max NCC (Y): 0, (Z): 5
+2024-12-06 20:16:08,245 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv':
+2024-12-06 20:16:08,246 [INFO]   - Cosine Similarity (Mean): 0.3791
+2024-12-06 20:16:08,246 [INFO]   - Pearson Correlation (Mean): 0.6461
+2024-12-06 20:16:08,246 [INFO]   - Normalized Cross-Correlation (Mean): 0.8104
+2024-12-06 20:16:08,246 [INFO]   - Lag at Max NCC (Y): 1, (Z): 52
+2024-12-06 20:16:08,257 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv':
+2024-12-06 20:16:08,258 [INFO]   - Cosine Similarity (Mean): 0.4471
+2024-12-06 20:16:08,258 [INFO]   - Pearson Correlation (Mean): 0.7882
+2024-12-06 20:16:08,258 [INFO]   - Normalized Cross-Correlation (Mean): 0.8331
+2024-12-06 20:16:08,258 [INFO]   - Lag at Max NCC (Y): 1, (Z): -19
+2024-12-06 20:16:08,677 [INFO] Cross-correlation plot saved as 'inference_outputs\Depth_A2CvsPPO_LeavesFalling_Variants\Depth_A2CvsPPO_LeavesFalling_Variants_cross_correlation_part2.png'.
+2024-12-06 20:16:08,891 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv':
+2024-12-06 20:16:08,891 [INFO]   - Cosine Similarity (Mean): 0.4255
+2024-12-06 20:16:08,892 [INFO]   - Pearson Correlation (Mean): 0.7636
+2024-12-06 20:16:08,892 [INFO]   - Normalized Cross-Correlation (Mean): 0.8230
+2024-12-06 20:16:08,892 [INFO]   - Lag at Max NCC (Y): 0, (Z): -18
+2024-12-06 20:16:08,903 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv':
+2024-12-06 20:16:08,903 [INFO]   - Cosine Similarity (Mean): 0.7996
+2024-12-06 20:16:08,905 [INFO]   - Pearson Correlation (Mean): 0.8797
+2024-12-06 20:16:08,905 [INFO]   - Normalized Cross-Correlation (Mean): 0.8971
+2024-12-06 20:16:08,905 [INFO]   - Lag at Max NCC (Y): 1, (Z): -6
+2024-12-06 20:16:08,919 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_leavesFalling_positions.csv':
+2024-12-06 20:16:08,920 [INFO]   - Cosine Similarity (Mean): 0.9279
+2024-12-06 20:16:08,920 [INFO]   - Pearson Correlation (Mean): 0.8308
+2024-12-06 20:16:08,920 [INFO]   - Normalized Cross-Correlation (Mean): 0.8417
+2024-12-06 20:16:08,920 [INFO]   - Lag at Max NCC (Y): 0, (Z): 6
+2024-12-06 20:16:08,932 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv':
+2024-12-06 20:16:08,932 [INFO]   - Cosine Similarity (Mean): 0.8716
+2024-12-06 20:16:08,932 [INFO]   - Pearson Correlation (Mean): 0.7450
+2024-12-06 20:16:08,932 [INFO]   - Normalized Cross-Correlation (Mean): 0.7804
+2024-12-06 20:16:08,933 [INFO]   - Lag at Max NCC (Y): -7, (Z): -24
+2024-12-06 20:16:08,947 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv':
+2024-12-06 20:16:08,948 [INFO]   - Cosine Similarity (Mean): 0.9569
+2024-12-06 20:16:08,948 [INFO]   - Pearson Correlation (Mean): 0.9033
+2024-12-06 20:16:08,948 [INFO]   - Normalized Cross-Correlation (Mean): 0.9101
+2024-12-06 20:16:08,948 [INFO]   - Lag at Max NCC (Y): 1, (Z): -7
+2024-12-06 20:16:08,960 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv':
+2024-12-06 20:16:08,960 [INFO]   - Cosine Similarity (Mean): 0.9463
+2024-12-06 20:16:08,961 [INFO]   - Pearson Correlation (Mean): 0.8733
+2024-12-06 20:16:08,961 [INFO]   - Normalized Cross-Correlation (Mean): 0.8832
+2024-12-06 20:16:08,961 [INFO]   - Lag at Max NCC (Y): 3, (Z): -6
+2024-12-06 20:16:09,402 [INFO] Cross-correlation plot saved as 'inference_outputs\Depth_A2CvsPPO_LeavesFalling_Variants\Depth_A2CvsPPO_LeavesFalling_Variants_cross_correlation_part3.png'.
+2024-12-06 20:16:09,604 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_leavesFalling_positions.csv':
+2024-12-06 20:16:09,606 [INFO]   - Cosine Similarity (Mean): 0.6993
+2024-12-06 20:16:09,606 [INFO]   - Pearson Correlation (Mean): 0.7980
+2024-12-06 20:16:09,606 [INFO]   - Normalized Cross-Correlation (Mean): 0.8669
+2024-12-06 20:16:09,606 [INFO]   - Lag at Max NCC (Y): 13, (Z): 14
+2024-12-06 20:16:09,616 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv':
+2024-12-06 20:16:09,616 [INFO]   - Cosine Similarity (Mean): 0.7024
+2024-12-06 20:16:09,616 [INFO]   - Pearson Correlation (Mean): 0.7927
+2024-12-06 20:16:09,616 [INFO]   - Normalized Cross-Correlation (Mean): 0.8359
+2024-12-06 20:16:09,617 [INFO]   - Lag at Max NCC (Y): 7, (Z): -13
+2024-12-06 20:16:09,626 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv':
+2024-12-06 20:16:09,627 [INFO]   - Cosine Similarity (Mean): 0.7618
+2024-12-06 20:16:09,627 [INFO]   - Pearson Correlation (Mean): 0.8815
+2024-12-06 20:16:09,627 [INFO]   - Normalized Cross-Correlation (Mean): 0.8981
+2024-12-06 20:16:09,627 [INFO]   - Lag at Max NCC (Y): 15, (Z): -3
+2024-12-06 20:16:09,642 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv':
+2024-12-06 20:16:09,643 [INFO]   - Cosine Similarity (Mean): 0.7474
+2024-12-06 20:16:09,643 [INFO]   - Pearson Correlation (Mean): 0.8559
+2024-12-06 20:16:09,643 [INFO]   - Normalized Cross-Correlation (Mean): 0.8595
+2024-12-06 20:16:09,643 [INFO]   - Lag at Max NCC (Y): 0, (Z): -3
+2024-12-06 20:16:09,654 [INFO] Similarity between 'ppo_naturecnn_depth_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv':
+2024-12-06 20:16:09,654 [INFO]   - Cosine Similarity (Mean): 0.8959
+2024-12-06 20:16:09,654 [INFO]   - Pearson Correlation (Mean): 0.7173
+2024-12-06 20:16:09,654 [INFO]   - Normalized Cross-Correlation (Mean): 0.8354
+2024-12-06 20:16:09,654 [INFO]   - Lag at Max NCC (Y): -2, (Z): -29
+2024-12-06 20:16:09,666 [INFO] Similarity between 'ppo_naturecnn_depth_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv':
+2024-12-06 20:16:09,666 [INFO]   - Cosine Similarity (Mean): 0.9555
+2024-12-06 20:16:09,667 [INFO]   - Pearson Correlation (Mean): 0.8574
+2024-12-06 20:16:09,667 [INFO]   - Normalized Cross-Correlation (Mean): 0.8998
+2024-12-06 20:16:09,667 [INFO]   - Lag at Max NCC (Y): 1, (Z): -13
+2024-12-06 20:16:10,109 [INFO] Cross-correlation plot saved as 'inference_outputs\Depth_A2CvsPPO_LeavesFalling_Variants\Depth_A2CvsPPO_LeavesFalling_Variants_cross_correlation_part4.png'.
+2024-12-06 20:16:10,262 [INFO] Similarity between 'ppo_naturecnn_depth_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv':
+2024-12-06 20:16:10,263 [INFO]   - Cosine Similarity (Mean): 0.9428
+2024-12-06 20:16:10,263 [INFO]   - Pearson Correlation (Mean): 0.8090
+2024-12-06 20:16:10,263 [INFO]   - Normalized Cross-Correlation (Mean): 0.8646
+2024-12-06 20:16:10,263 [INFO]   - Lag at Max NCC (Y): 1, (Z): -14
+2024-12-06 20:16:10,273 [INFO] Similarity between 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv':
+2024-12-06 20:16:10,273 [INFO]   - Cosine Similarity (Mean): 0.9182
+2024-12-06 20:16:10,274 [INFO]   - Pearson Correlation (Mean): 0.8333
+2024-12-06 20:16:10,274 [INFO]   - Normalized Cross-Correlation (Mean): 0.8603
+2024-12-06 20:16:10,274 [INFO]   - Lag at Max NCC (Y): 3, (Z): 8
+2024-12-06 20:16:10,284 [INFO] Similarity between 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv':
+2024-12-06 20:16:10,284 [INFO]   - Cosine Similarity (Mean): 0.9148
+2024-12-06 20:16:10,284 [INFO]   - Pearson Correlation (Mean): 0.8195
+2024-12-06 20:16:10,284 [INFO]   - Normalized Cross-Correlation (Mean): 0.8685
+2024-12-06 20:16:10,284 [INFO]   - Lag at Max NCC (Y): 7, (Z): 7
+2024-12-06 20:16:10,297 [INFO] Similarity between 'ppo_naturecnn_depth_obstacle_weather_rainandfog_leavesFalling_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_leavesFalling_positions.csv':
+2024-12-06 20:16:10,298 [INFO]   - Cosine Similarity (Mean): 0.9887
+2024-12-06 20:16:10,298 [INFO]   - Pearson Correlation (Mean): 0.9635
+2024-12-06 20:16:10,298 [INFO]   - Normalized Cross-Correlation (Mean): 0.9658
+2024-12-06 20:16:10,298 [INFO]   - Lag at Max NCC (Y): 0, (Z): 2
+2024-12-06 20:16:10,628 [INFO] Cross-correlation plot saved as 'inference_outputs\Depth_A2CvsPPO_LeavesFalling_Variants\Depth_A2CvsPPO_LeavesFalling_Variants_cross_correlation_part5.png'.
+2024-12-06 20:16:11,256 [INFO] Mean trajectories plotted and saved as 'inference_outputs\Depth_A2CvsPPO_LeavesFalling_Variants\Depth_A2CvsPPO_LeavesFalling_Variants_mean_trajectories.png'.
+2024-12-06 20:16:11,264 [INFO] Similarity summary saved as 'inference_outputs\Depth_A2CvsPPO_LeavesFalling_Variants\Depth_A2CvsPPO_LeavesFalling_Variants_similarity_summary.csv'.

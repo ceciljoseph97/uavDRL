@@ -1,0 +1,7 @@
+*__pycache__*
+SupportingFiles
+Environments
+*.npy
+*.ply
+*.pcd
+*.zip

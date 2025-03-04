@@ -1,0 +1,111 @@
+2024-12-06 19:36:24,583 [INFO] Logging initialized for scenario: 'Depth_A2C_NormalWeather_Variants'
+2024-12-06 19:36:24,583 [INFO] Received command-line arguments: Scenario='Depth_A2C_NormalWeather_Variants', Filenames=['D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth\\a2c_naturecnn_depth_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_leavesfalling\\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_rainandfog\\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_snowonly\\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv']
+2024-12-06 19:36:24,585 [INFO] Starting to plot multiple mean trajectories.
+2024-12-06 19:36:24,735 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv'.
+2024-12-06 19:36:24,738 [INFO] Episode 8 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,739 [INFO] Episode 10 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,744 [INFO] Episode 21 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,747 [INFO] Episode 36 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,749 [INFO] Episode 38 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,763 [INFO] Episode 82 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,764 [INFO] Episode 84 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,766 [INFO] Episode 89 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,789 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv'.
+2024-12-06 19:36:24,790 [INFO] Episode 1 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,792 [INFO] Episode 7 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,794 [INFO] Episode 10 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,794 [INFO] Episode 11 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,795 [INFO] Episode 14 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,796 [INFO] Episode 18 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,799 [INFO] Episode 28 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,800 [INFO] Episode 30 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,802 [INFO] Episode 35 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,803 [INFO] Episode 38 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,807 [INFO] Episode 49 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,811 [INFO] Episode 59 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,813 [INFO] Episode 64 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,815 [INFO] Episode 70 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,816 [INFO] Episode 73 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,818 [INFO] Episode 83 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,821 [INFO] Episode 90 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,822 [INFO] Episode 94 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,824 [INFO] Episode 97 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,824 [INFO] Episode 98 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,841 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv'.
+2024-12-06 19:36:24,842 [INFO] Episode 1 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,846 [INFO] Episode 11 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,846 [INFO] Episode 15 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,851 [INFO] Episode 29 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,855 [INFO] Episode 45 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,857 [INFO] Episode 46 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,857 [INFO] Episode 47 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,862 [INFO] Episode 60 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,863 [INFO] Episode 61 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,864 [INFO] Episode 65 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,865 [INFO] Episode 68 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,872 [INFO] Episode 84 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,874 [INFO] Episode 88 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,946 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv'.
+2024-12-06 19:36:24,949 [INFO] Episode 5 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,950 [INFO] Episode 8 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,956 [INFO] Episode 30 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,957 [INFO] Episode 38 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,959 [INFO] Episode 41 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,959 [INFO] Episode 42 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,960 [INFO] Episode 43 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,961 [INFO] Episode 45 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,962 [INFO] Episode 46 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,963 [INFO] Episode 49 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,965 [INFO] Episode 52 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,967 [INFO] Episode 57 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,967 [INFO] Episode 58 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,968 [INFO] Episode 60 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,972 [INFO] Episode 70 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,978 [INFO] Episode 88 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,978 [INFO] Episode 89 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,980 [INFO] Episode 94 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:36:24,993 [INFO] Wall positions determined at: [3.7, 7.4, 11.100000000000001, 14.8, 18.5, 22.2]
+2024-12-06 19:36:24,995 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_positions.csv' with color 'blue'.
+2024-12-06 19:36:24,996 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' with color 'green'.
+2024-12-06 19:36:24,997 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' with color 'orange'.
+2024-12-06 19:36:24,999 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' with color 'purple'.
+2024-12-06 19:36:25,062 [INFO] Added wall surface at X=3.7 with Trajectory Variations and Passages.
+2024-12-06 19:36:25,113 [INFO] Added wall surface at X=7.4 with Trajectory Variations and Passages.
+2024-12-06 19:36:25,166 [INFO] Added wall surface at X=11.100000000000001 with Trajectory Variations and Passages.
+2024-12-06 19:36:25,234 [INFO] Added wall surface at X=14.8 with Trajectory Variations and Passages.
+2024-12-06 19:36:25,298 [INFO] Added wall surface at X=18.5 with Trajectory Variations and Passages.
+2024-12-06 19:36:25,302 [WARNING] No data near wall at X=22.2. Skipping hole creation.
+2024-12-06 19:36:25,302 [INFO] Completed plotting walls and holes.
+2024-12-06 19:36:25,472 [INFO] Similarity between 'a2c_naturecnn_depth_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv':
+2024-12-06 19:36:25,472 [INFO]   - Cosine Similarity (Mean): 0.6736
+2024-12-06 19:36:25,473 [INFO]   - Pearson Correlation (Mean): 0.8928
+2024-12-06 19:36:25,473 [INFO]   - Normalized Cross-Correlation (Mean): 0.8988
+2024-12-06 19:36:25,473 [INFO]   - Lag at Max NCC (Y): 7, (Z): -1
+2024-12-06 19:36:25,483 [INFO] Similarity between 'a2c_naturecnn_depth_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv':
+2024-12-06 19:36:25,483 [INFO]   - Cosine Similarity (Mean): 0.9752
+2024-12-06 19:36:25,483 [INFO]   - Pearson Correlation (Mean): 0.9455
+2024-12-06 19:36:25,483 [INFO]   - Normalized Cross-Correlation (Mean): 0.9461
+2024-12-06 19:36:25,484 [INFO]   - Lag at Max NCC (Y): 0, (Z): -2
+2024-12-06 19:36:25,494 [INFO] Similarity between 'a2c_naturecnn_depth_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv':
+2024-12-06 19:36:25,494 [INFO]   - Cosine Similarity (Mean): 0.8794
+2024-12-06 19:36:25,494 [INFO]   - Pearson Correlation (Mean): 0.9351
+2024-12-06 19:36:25,495 [INFO]   - Normalized Cross-Correlation (Mean): 0.9502
+2024-12-06 19:36:25,495 [INFO]   - Lag at Max NCC (Y): -3, (Z): -8
+2024-12-06 19:36:25,506 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv':
+2024-12-06 19:36:25,506 [INFO]   - Cosine Similarity (Mean): 0.6717
+2024-12-06 19:36:25,506 [INFO]   - Pearson Correlation (Mean): 0.8866
+2024-12-06 19:36:25,506 [INFO]   - Normalized Cross-Correlation (Mean): 0.8928
+2024-12-06 19:36:25,506 [INFO]   - Lag at Max NCC (Y): -5, (Z): -2
+2024-12-06 19:36:25,520 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv':
+2024-12-06 19:36:25,520 [INFO]   - Cosine Similarity (Mean): 0.8062
+2024-12-06 19:36:25,520 [INFO]   - Pearson Correlation (Mean): 0.8459
+2024-12-06 19:36:25,521 [INFO]   - Normalized Cross-Correlation (Mean): 0.8695
+2024-12-06 19:36:25,521 [INFO]   - Lag at Max NCC (Y): -11, (Z): -7
+2024-12-06 19:36:25,532 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv':
+2024-12-06 19:36:25,533 [INFO]   - Cosine Similarity (Mean): 0.8609
+2024-12-06 19:36:25,533 [INFO]   - Pearson Correlation (Mean): 0.9043
+2024-12-06 19:36:25,533 [INFO]   - Normalized Cross-Correlation (Mean): 0.9097
+2024-12-06 19:36:25,533 [INFO]   - Lag at Max NCC (Y): -8, (Z): 0
+2024-12-06 19:36:25,998 [INFO] Cross-correlation plot saved as 'inference_outputs\Depth_A2C_NormalWeather_Variants\Depth_A2C_NormalWeather_Variants_cross_correlation_part1.png'.
+2024-12-06 19:36:26,588 [INFO] Mean trajectories plotted and saved as 'inference_outputs\Depth_A2C_NormalWeather_Variants\Depth_A2C_NormalWeather_Variants_mean_trajectories.png'.
+2024-12-06 19:36:26,595 [INFO] Similarity summary saved as 'inference_outputs\Depth_A2C_NormalWeather_Variants\Depth_A2C_NormalWeather_Variants_similarity_summary.csv'.

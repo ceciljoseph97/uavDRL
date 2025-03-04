@@ -1,0 +1,58 @@
+model Scenario train_flight_distance train_Traget_Reached train_flight_distance train_Traget_Reached
+PPO_DFM Normal  18.38  4 16.39 4
+PPO_DFM LeavesFalling  17.11  4 15.73 4
+PPO_DFM RainandFog  17.19  4 15.35 4
+PPO_DFM SnowOnly  16.96  4 15.92 4
+PPO_SRGBFM Normal  13.62  3 11.79 3
+PPO_SRGBFM LeavesFalling  12.42  3 11.79 3
+PPO_SRGBFM RainandFog  9.85  4 4.68 1
+PPO_SRGBFM SnowOnly  16.78  3 11.76 3
+
+
+Model Scenario Train Accuracy Test Accuracy
+PPO_DFM Normal  93.20  89.34
+PPO_DFM LeavesFalling  91.33  82.78
+PPO_DFM RainandFog  90.29  81.70
+PPO_DFM SnowOnly  90.82  90.22
+PPO_SRGBFM Normal  75.31  72.90
+PPO_SRGBFM LeavesFalling  74.08  70.07
+PPO_SRGBFM RainandFog  61.88  39.71
+PPO_SRGBFM SnowOnly  76.01  70.81
+
+
+../../inference_outputs/update/Normal-Weather/A2CNormalDepthVariants.png
+../../inference_outputs/update/Normal-Weather/PPONormalDepthVariants.png
+../../inference_outputs/update/Normal-Weather/DepthVariants.png
+../../inference_outputs/update/Normal-Weather/A2CNormalSRGBVariants.png
+../../inference_outputs/update/Normal-Weather/PPONormalSRGBVariants.png
+../../inference_outputs/update/Normal-Weather/RGBVariants.png
+../../inference_outputs/update/Normal-Weather/MRGBVariants.png
+../../inference_outputs/update/Normal-Weather/MRGB3D.png
+
+../../inference_outputs/update/LeavesFalling-Weather/A2CDepthVariants.png
+../../inference_outputs/update/LeavesFalling-Weather/PPODepthVariants.png
+../../inference_outputs/update/LeavesFalling-Weather/DepthVariants3D.png
+../../inference_outputs/update/LeavesFalling-Weather/A2CSRGBVariants.png
+../../inference_outputs/update/LeavesFalling-Weather/PPOSRGBVariants.png
+../../inference_outputs/update/LeavesFalling-Weather/RGBVariants3D.png
+../../inference_outputs/update/LeavesFalling-Weather/MRGBVariants.png
+../../inference_outputs/update/LeavesFalling-Weather/MRGB3D.png
+
+../../inference_outputs/update/RainandFog-Weather/A2CDepthVariants.png
+../../inference_outputs/update/RainandFog-Weather/PPODepthVariants.png
+../../inference_outputs/update/RainandFog-Weather/DepthVariants3D.png
+../../inference_outputs/update/RainandFog-Weather/A2CSRGBVariants.png
+../../inference_outputs/update/RainandFog-Weather/PPOSRGBVariants.png
+../../inference_outputs/update/RainandFog-Weather/RGBVariants3D.png
+../../inference_outputs/update/RainandFog-Weather/MRGBVariants.png
+../../inference_outputs/update/RainandFog-Weather/MRGB3D.png
+
+../../inference_outputs/update/SnowOnly-Weather/A2CDepthVariants.png
+../../inference_outputs/update/SnowOnly-Weather/PPODepthVariants.png
+../../inference_outputs/update/SnowOnly-Weather/DepthVariants3D.png
+../../inference_outputs/update/SnowOnly-Weather/A2CSRGBVariants.png
+../../inference_outputs/update/SnowOnly-Weather/PPOSRGBVariants.png
+../../inference_outputs/update/SnowOnly-Weather/RGBVariants3D.png
+../../inference_outputs/update/SnowOnly-Weather/MRGBVariants.png
+../../inference_outputs/update/SnowOnly-Weather/MRGBVariants3D.png
+

@@ -1,0 +1,118 @@
+2025-02-09 20:51:46,970 [INFO] Logging initialized for scenario: 'Normal-Weather'
+2025-02-09 20:51:46,970 [INFO] Scenario='Normal-Weather', Filenames=['inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth\\a2c_naturecnn_depth_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_leavesfalling\\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_rainandfog\\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_snowonly\\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth\\ppo_naturecnn_depth_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth_obstacle_weather_leavesfalling\\ppo_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth_obstacle_weather_rainandfog\\ppo_naturecnn_depth_obstacle_weather_rainandfog_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth_obstacle_weather_snowonly\\ppo_naturecnn_depth_obstacle_weather_snowonly_positions.csv']
+2025-02-09 20:51:46,970 [INFO] Starting to plot multiple mean trajectories (no similarity).
+2025-02-09 20:51:47,074 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv'.
+2025-02-09 20:51:47,111 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv'.
+2025-02-09 20:51:47,142 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv'.
+2025-02-09 20:51:47,172 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv'.
+2025-02-09 20:51:47,201 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv'.
+2025-02-09 20:51:47,230 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth_obstacle_weather_leavesfalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv'.
+2025-02-09 20:51:47,259 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth_obstacle_weather_rainandfog\ppo_naturecnn_depth_obstacle_weather_rainandfog_positions.csv'.
+2025-02-09 20:51:47,290 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth_obstacle_weather_snowonly\ppo_naturecnn_depth_obstacle_weather_snowonly_positions.csv'.
+2025-02-09 20:51:47,316 [INFO] Walls at: [3.7, 7.4, 11.100000000000001, 14.8, 18.5, 22.2]
+2025-02-09 20:51:47,318 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_positions.csv' as 'A2C-D' in color 'blue'.
+2025-02-09 20:51:47,319 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' as 'A2C-DL' in color 'green'.
+2025-02-09 20:51:47,320 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' as 'A2C-DRF' in color 'orange'.
+2025-02-09 20:51:47,320 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' as 'A2C-DS' in color 'purple'.
+2025-02-09 20:51:47,321 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_positions.csv' as 'PPO-D' in color 'cyan'.
+2025-02-09 20:51:47,322 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' as 'PPO-DL' in color 'magenta'.
+2025-02-09 20:51:47,323 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' as 'PPO-DRF' in color 'yellow'.
+2025-02-09 20:51:47,324 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_snowonly_positions.csv' as 'PPO-DS' in color 'brown'.
+2025-02-09 20:51:47,462 [INFO] Mean trajectories saved as 'inference_outputs\Normal-Weather\Normal-Weather_mean_trajectories.png' without similarity computations.
+2025-02-09 20:55:48,488 [INFO] Logging initialized for scenario: 'Normal-Weather'
+2025-02-09 20:55:48,488 [INFO] Scenario='Normal-Weather', Filenames=['inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth\\a2c_naturecnn_depth_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_leavesfalling\\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_rainandfog\\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_snowonly\\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth\\ppo_naturecnn_depth_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth_obstacle_weather_leavesfalling\\ppo_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth_obstacle_weather_rainandfog\\ppo_naturecnn_depth_obstacle_weather_rainandfog_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth_obstacle_weather_snowonly\\ppo_naturecnn_depth_obstacle_weather_snowonly_positions.csv']
+2025-02-09 20:55:48,489 [INFO] Starting to plot multiple mean trajectories (no similarity).
+2025-02-09 20:55:48,601 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv'.
+2025-02-09 20:55:48,635 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv'.
+2025-02-09 20:55:48,666 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv'.
+2025-02-09 20:55:48,700 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv'.
+2025-02-09 20:55:48,729 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv'.
+2025-02-09 20:55:48,758 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth_obstacle_weather_leavesfalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv'.
+2025-02-09 20:55:48,789 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth_obstacle_weather_rainandfog\ppo_naturecnn_depth_obstacle_weather_rainandfog_positions.csv'.
+2025-02-09 20:55:48,820 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth_obstacle_weather_snowonly\ppo_naturecnn_depth_obstacle_weather_snowonly_positions.csv'.
+2025-02-09 20:55:48,847 [INFO] Walls at: [3.7, 7.4, 11.100000000000001, 14.8, 18.5, 22.2]
+2025-02-09 20:55:48,848 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_positions.csv' as 'A2C-D' in color 'blue'.
+2025-02-09 20:55:48,849 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' as 'A2C-DL' in color 'green'.
+2025-02-09 20:55:48,849 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' as 'A2C-DRF' in color 'orange'.
+2025-02-09 20:55:48,850 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' as 'A2C-DS' in color 'purple'.
+2025-02-09 20:55:48,851 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_positions.csv' as 'PPO-D' in color 'cyan'.
+2025-02-09 20:55:48,852 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' as 'PPO-DL' in color 'magenta'.
+2025-02-09 20:55:48,853 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' as 'PPO-DRF' in color 'yellow'.
+2025-02-09 20:55:48,853 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_snowonly_positions.csv' as 'PPO-DS' in color 'brown'.
+2025-02-09 20:55:48,988 [INFO] Mean trajectories saved as 'inference_outputs\Normal-Weather\Normal-Weather_mean_trajectories.png' (no similarity).
+2025-02-09 20:58:30,372 [INFO] Logging initialized for scenario: 'Normal-Weather'
+2025-02-09 20:58:30,372 [INFO] Scenario='Normal-Weather', Filenames=['inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth\\a2c_naturecnn_depth_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_leavesfalling\\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_rainandfog\\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_snowonly\\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth\\ppo_naturecnn_depth_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth_obstacle_weather_leavesfalling\\ppo_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth_obstacle_weather_rainandfog\\ppo_naturecnn_depth_obstacle_weather_rainandfog_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth_obstacle_weather_snowonly\\ppo_naturecnn_depth_obstacle_weather_snowonly_positions.csv']
+2025-02-09 20:58:30,373 [INFO] Starting to plot multiple mean trajectories (with min/max variation labels).
+2025-02-09 20:58:30,490 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv'.
+2025-02-09 20:58:30,527 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv'.
+2025-02-09 20:58:30,559 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv'.
+2025-02-09 20:58:30,592 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv'.
+2025-02-09 20:58:30,620 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv'.
+2025-02-09 20:58:30,647 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth_obstacle_weather_leavesfalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv'.
+2025-02-09 20:58:30,680 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth_obstacle_weather_rainandfog\ppo_naturecnn_depth_obstacle_weather_rainandfog_positions.csv'.
+2025-02-09 20:58:30,714 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth_obstacle_weather_snowonly\ppo_naturecnn_depth_obstacle_weather_snowonly_positions.csv'.
+2025-02-09 20:58:30,740 [INFO] Walls at: [3.7, 7.4, 11.100000000000001, 14.8, 18.5, 22.2]
+2025-02-09 20:58:30,742 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_positions.csv' as 'A2C-D' in color 'blue'.
+2025-02-09 20:58:30,743 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' as 'A2C-DL' in color 'green'.
+2025-02-09 20:58:30,744 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' as 'A2C-DRF' in color 'orange'.
+2025-02-09 20:58:30,745 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' as 'A2C-DS' in color 'purple'.
+2025-02-09 20:58:30,746 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_positions.csv' as 'PPO-D' in color 'cyan'.
+2025-02-09 20:58:30,746 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' as 'PPO-DL' in color 'magenta'.
+2025-02-09 20:58:30,747 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' as 'PPO-DRF' in color 'yellow'.
+2025-02-09 20:58:30,749 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_snowonly_positions.csv' as 'PPO-DS' in color 'brown'.
+2025-02-09 20:58:30,921 [WARNING] No data near wall at X=22.2. Skipping hole creation.
+2025-02-09 20:58:31,369 [INFO] Mean trajectories saved as 'inference_outputs\Normal-Weather\Normal-Weather_mean_trajectories.png' with min/max variation labels, no similarity.
+2025-02-09 21:00:53,955 [INFO] Logging initialized for scenario: 'Normal-Weather'
+2025-02-09 21:00:53,955 [INFO] Scenario='Normal-Weather', Filenames=['inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth\\a2c_naturecnn_depth_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_leavesfalling\\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_rainandfog\\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth_obstacle_weather_snowonly\\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth\\ppo_naturecnn_depth_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth_obstacle_weather_leavesfalling\\ppo_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth_obstacle_weather_rainandfog\\ppo_naturecnn_depth_obstacle_weather_rainandfog_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth_obstacle_weather_snowonly\\ppo_naturecnn_depth_obstacle_weather_snowonly_positions.csv']
+2025-02-09 21:00:53,956 [INFO] Plotting multiple mean trajectories with circular 'Passages' only.
+2025-02-09 21:00:54,061 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv'.
+2025-02-09 21:00:54,097 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_leavesfalling\a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv'.
+2025-02-09 21:00:54,130 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_rainandfog\a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv'.
+2025-02-09 21:00:54,162 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_depth_obstacle_weather_snowonly\a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv'.
+2025-02-09 21:00:54,192 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv'.
+2025-02-09 21:00:54,219 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth_obstacle_weather_leavesfalling\ppo_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv'.
+2025-02-09 21:00:54,254 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth_obstacle_weather_rainandfog\ppo_naturecnn_depth_obstacle_weather_rainandfog_positions.csv'.
+2025-02-09 21:00:54,288 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_depth_obstacle_weather_snowonly\ppo_naturecnn_depth_obstacle_weather_snowonly_positions.csv'.
+2025-02-09 21:00:54,314 [INFO] Walls determined at: [3.7, 7.4, 11.100000000000001, 14.8, 18.5, 22.2]
+2025-02-09 21:00:54,316 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_positions.csv' with label 'A2C-D' in color 'blue'.
+2025-02-09 21:00:54,317 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' with label 'A2C-DL' in color 'green'.
+2025-02-09 21:00:54,318 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' with label 'A2C-DRF' in color 'orange'.
+2025-02-09 21:00:54,319 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_snowonly_positions.csv' with label 'A2C-DS' in color 'purple'.
+2025-02-09 21:00:54,320 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_positions.csv' with label 'PPO-D' in color 'cyan'.
+2025-02-09 21:00:54,321 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_positions.csv' with label 'PPO-DL' in color 'magenta'.
+2025-02-09 21:00:54,321 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_rainandfog_positions.csv' with label 'PPO-DRF' in color 'yellow'.
+2025-02-09 21:00:54,322 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_snowonly_positions.csv' with label 'PPO-DS' in color 'brown'.
+2025-02-09 21:00:54,483 [WARNING] No data near wall at X=22.2. Skipping hole creation.
+2025-02-09 21:00:54,923 [INFO] Mean trajectories saved as 'inference_outputs\Normal-Weather\Normal-Weather_mean_trajectories.png' with circular 'Passages' only, no similarity.
+2025-02-09 21:06:50,918 [INFO] Logging initialized for scenario: 'Normal-Weather'
+2025-02-09 21:06:50,919 [INFO] Scenario='Normal-Weather', Filenames=['inference_outputs\\Trajectories\\gen\\a2c_naturecnn_single_rgb\\a2c_naturecnn_single_rgb_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_single_rgb_obstacle_weather_leavesfalling\\a2c_naturecnn_single_rgb_obstacle_weather_leavesfalling_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_single_rgb_obstacle_weather_rainandfog\\a2c_naturecnn_single_rgb_obstacle_weather_rainandfog_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_single_rgb_obstacle_weather_snowonly\\a2c_naturecnn_single_rgb_obstacle_weather_snowonly_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_single_rgb\\ppo_naturecnn_single_rgb_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_single_rgb_obstacle_weather_leavesfalling\\ppo_naturecnn_single_rgb_obstacle_weather_leavesfalling_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_single_rgb_obstacle_weather_rainandfog\\ppo_naturecnn_single_rgb_obstacle_weather_rainandfog_positions.csv', 'inference_outputs\\Trajectories\\gen\\ppo_naturecnn_single_rgb_obstacle_weather_snowonly\\ppo_naturecnn_single_rgb_obstacle_weather_snowonly_positions.csv']
+2025-02-09 21:06:50,919 [INFO] Plotting multiple mean trajectories with circular 'Passages' only.
+2025-02-09 21:06:51,027 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv'.
+2025-02-09 21:06:51,052 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb_obstacle_weather_leavesfalling\a2c_naturecnn_single_rgb_obstacle_weather_leavesfalling_positions.csv'.
+2025-02-09 21:06:51,078 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb_obstacle_weather_rainandfog\a2c_naturecnn_single_rgb_obstacle_weather_rainandfog_positions.csv'.
+2025-02-09 21:06:51,101 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb_obstacle_weather_snowonly\a2c_naturecnn_single_rgb_obstacle_weather_snowonly_positions.csv'.
+2025-02-09 21:06:51,123 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv'.
+2025-02-09 21:06:51,148 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb_obstacle_weather_leavesfalling\ppo_naturecnn_single_rgb_obstacle_weather_leavesfalling_positions.csv'.
+2025-02-09 21:06:51,173 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb_obstacle_weather_rainandfog\ppo_naturecnn_single_rgb_obstacle_weather_rainandfog_positions.csv'.
+2025-02-09 21:06:51,195 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb_obstacle_weather_snowonly\ppo_naturecnn_single_rgb_obstacle_weather_snowonly_positions.csv'.
+2025-02-09 21:06:51,217 [INFO] Walls determined at: [3.7, 7.4, 11.100000000000001, 14.8, 18.5, 22.2]
+2025-02-09 21:06:51,218 [INFO] Plotted mean trajectory from 'a2c_naturecnn_single_rgb_positions.csv' with label 'A2C-SRGB' in color 'blue'.
+2025-02-09 21:06:51,220 [INFO] Plotted mean trajectory from 'a2c_naturecnn_single_rgb_obstacle_weather_leavesfalling_positions.csv' with label 'A2C-SRGBL' in color 'green'.
+2025-02-09 21:06:51,221 [INFO] Plotted mean trajectory from 'a2c_naturecnn_single_rgb_obstacle_weather_rainandfog_positions.csv' with label 'A2C-SRGBRF' in color 'orange'.
+2025-02-09 21:06:51,222 [INFO] Plotted mean trajectory from 'a2c_naturecnn_single_rgb_obstacle_weather_snowonly_positions.csv' with label 'A2C-SRGBS' in color 'purple'.
+2025-02-09 21:06:51,222 [INFO] Plotted mean trajectory from 'ppo_naturecnn_single_rgb_positions.csv' with label 'PPO-SRGB' in color 'cyan'.
+2025-02-09 21:06:51,223 [INFO] Plotted mean trajectory from 'ppo_naturecnn_single_rgb_obstacle_weather_leavesfalling_positions.csv' with label 'PPO-SRGBL' in color 'magenta'.
+2025-02-09 21:06:51,223 [INFO] Plotted mean trajectory from 'ppo_naturecnn_single_rgb_obstacle_weather_rainandfog_positions.csv' with label 'PPO-SRGBRF' in color 'yellow'.
+2025-02-09 21:06:51,224 [INFO] Plotted mean trajectory from 'ppo_naturecnn_single_rgb_obstacle_weather_snowonly_positions.csv' with label 'PPO-SRGBS' in color 'brown'.
+2025-02-09 21:06:51,384 [WARNING] No data near wall at X=22.2. Skipping hole creation.
+2025-02-09 21:06:51,827 [INFO] Mean trajectories saved as 'inference_outputs\Normal-Weather\Normal-Weather_mean_trajectories.png' with circular 'Passages' only, no similarity.
+2025-02-09 21:11:28,005 [INFO] Logging initialized for scenario: 'Normal-Weather'
+2025-02-09 21:11:28,006 [INFO] Scenario='Normal-Weather', Filenames=['inference_outputs\\Trajectories\\gen\\ppo_naturecnn_multi_rgb\\ppo_naturecnn_multi_rgb_positions.csv', 'inference_outputs\\Trajectories\\gen\\a2c_naturecnn_multi_rgb\\a2c_naturecnn_multi_rgb_positions.csv']
+2025-02-09 21:11:28,006 [INFO] Plotting multiple mean trajectories with circular 'Passages' only.
+2025-02-09 21:11:28,115 [INFO] Successfully read 'inference_outputs\Trajectories\gen\ppo_naturecnn_multi_rgb\ppo_naturecnn_multi_rgb_positions.csv'.
+2025-02-09 21:11:28,145 [INFO] Successfully read 'inference_outputs\Trajectories\gen\a2c_naturecnn_multi_rgb\a2c_naturecnn_multi_rgb_positions.csv'.
+2025-02-09 21:11:28,168 [INFO] Walls determined at: [3.7, 7.4, 11.100000000000001, 14.8, 18.5, 22.2]
+2025-02-09 21:11:28,170 [INFO] Plotted mean trajectory from 'ppo_naturecnn_multi_rgb_positions.csv' with label 'PPO-MRGB' in color 'blue'.
+2025-02-09 21:11:28,171 [INFO] Plotted mean trajectory from 'a2c_naturecnn_multi_rgb_positions.csv' with label 'A2C-MRGB' in color 'green'.
+2025-02-09 21:11:28,331 [WARNING] No data near wall at X=22.2. Skipping hole creation.
+2025-02-09 21:11:28,753 [INFO] Mean trajectories saved as 'inference_outputs\Normal-Weather\Normal-Weather_mean_trajectories.png' with circular 'Passages' only, no similarity.

@@ -1,0 +1,70 @@
+2024-12-06 19:26:03,328 [INFO] Logging initialized for scenario: 'Depth_A2CvsPPO_NormalWeather'
+2024-12-06 19:26:03,329 [INFO] Received command-line arguments: Scenario='Depth_A2CvsPPO_NormalWeather', Filenames=['D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\gen\\a2c_naturecnn_depth\\a2c_naturecnn_depth_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\gen\\ppo_naturecnn_depth\\ppo_naturecnn_depth_positions.csv']
+2024-12-06 19:26:03,329 [INFO] Starting to plot multiple mean trajectories.
+2024-12-06 19:26:03,484 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv'.
+2024-12-06 19:26:03,488 [INFO] Episode 8 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,489 [INFO] Episode 10 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,492 [INFO] Episode 21 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,496 [INFO] Episode 36 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,497 [INFO] Episode 38 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,509 [INFO] Episode 82 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,510 [INFO] Episode 84 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,512 [INFO] Episode 89 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_depth\a2c_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,533 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv'.
+2024-12-06 19:26:03,534 [INFO] Episode 1 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,534 [INFO] Episode 3 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,537 [INFO] Episode 7 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,539 [INFO] Episode 10 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,540 [INFO] Episode 11 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,541 [INFO] Episode 16 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,542 [INFO] Episode 18 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,543 [INFO] Episode 19 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,544 [INFO] Episode 21 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,545 [INFO] Episode 24 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,546 [INFO] Episode 25 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,550 [INFO] Episode 35 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,551 [INFO] Episode 36 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,551 [INFO] Episode 38 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,553 [INFO] Episode 41 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,557 [INFO] Episode 52 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,558 [INFO] Episode 53 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,558 [INFO] Episode 54 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,559 [INFO] Episode 56 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,560 [INFO] Episode 58 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,561 [INFO] Episode 59 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,562 [INFO] Episode 63 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,564 [INFO] Episode 64 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,565 [INFO] Episode 67 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,566 [INFO] Episode 68 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,567 [INFO] Episode 70 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,567 [INFO] Episode 72 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,569 [INFO] Episode 75 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,572 [INFO] Episode 81 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,573 [INFO] Episode 82 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,573 [INFO] Episode 83 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,574 [INFO] Episode 84 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,576 [INFO] Episode 86 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,577 [INFO] Episode 88 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,578 [INFO] Episode 91 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,579 [INFO] Episode 94 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,580 [INFO] Episode 95 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,580 [INFO] Episode 96 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,582 [INFO] Episode 100 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_depth\ppo_naturecnn_depth_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:26:03,589 [INFO] Wall positions determined at: [3.7, 7.4, 11.100000000000001, 14.8, 18.5, 22.2]
+2024-12-06 19:26:03,592 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_positions.csv' with color 'blue'.
+2024-12-06 19:26:03,593 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_positions.csv' with color 'green'.
+2024-12-06 19:26:03,684 [INFO] Added wall surface at X=3.7 with Trajectory Variations and Passages.
+2024-12-06 19:26:03,735 [INFO] Added wall surface at X=7.4 with Trajectory Variations and Passages.
+2024-12-06 19:26:03,787 [INFO] Added wall surface at X=11.100000000000001 with Trajectory Variations and Passages.
+2024-12-06 19:26:03,842 [INFO] Added wall surface at X=14.8 with Trajectory Variations and Passages.
+2024-12-06 19:26:03,896 [INFO] Added wall surface at X=18.5 with Trajectory Variations and Passages.
+2024-12-06 19:26:03,900 [WARNING] No data near wall at X=22.2. Skipping hole creation.
+2024-12-06 19:26:03,900 [INFO] Completed plotting walls and holes.
+2024-12-06 19:26:04,088 [INFO] Similarity between 'a2c_naturecnn_depth_positions.csv' and 'ppo_naturecnn_depth_positions.csv':
+2024-12-06 19:26:04,088 [INFO]   - Cosine Similarity (Mean): 0.9228
+2024-12-06 19:26:04,088 [INFO]   - Pearson Correlation (Mean): 0.8367
+2024-12-06 19:26:04,088 [INFO]   - Normalized Cross-Correlation (Mean): 0.8373
+2024-12-06 19:26:04,088 [INFO]   - Lag at Max NCC (Y): 2, (Z): 1
+2024-12-06 19:26:04,277 [INFO] Cross-correlation plot saved as 'inference_outputs\Depth_A2CvsPPO_NormalWeather\Depth_A2CvsPPO_NormalWeather_cross_correlation_part1.png'.
+2024-12-06 19:26:04,800 [INFO] Mean trajectories plotted and saved as 'inference_outputs\Depth_A2CvsPPO_NormalWeather\Depth_A2CvsPPO_NormalWeather_mean_trajectories.png'.
+2024-12-06 19:26:04,808 [INFO] Similarity summary saved as 'inference_outputs\Depth_A2CvsPPO_NormalWeather\Depth_A2CvsPPO_NormalWeather_similarity_summary.csv'.

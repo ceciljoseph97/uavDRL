@@ -1,0 +1,64 @@
+{
+  "SettingsVersion": 1.2,
+  "LocalHostIp": "127.0.0.1",
+  "SimMode": "Multirotor",
+  "ClockSpeed": 80,
+  "Vehicles": {
+    "drone0": {
+      "VehicleType": "SimpleFlight",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "Yaw": 0.0,
+      "Cameras": {
+        "front_center": {
+          "CaptureSettings": [
+            {
+              "ImageType": 0,
+              "Width": 256,
+              "Height": 192,
+              "FOV_Degrees": 90,
+              "AutoExposureSpeed": 100,
+              "MotionBlurAmount": 0
+            },
+            {
+              "ImageType": 1,
+              "Width": 256,
+              "Height": 192,
+              "FOV_Degrees": 90,
+              "AutoExposureSpeed": 100,
+              "MotionBlurAmount": 0
+            },
+            {
+              "ImageType": 5,
+              "Width": 256,
+              "Height": 192,
+              "FOV_Degrees": 90,
+              "AutoExposureSpeed": 100,
+              "MotionBlurAmount": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Recording": {
+    "RecordOnMove": true,
+    "RecordInterval": 0.05,
+    "Cameras": [
+      { "CameraName": "front_center", "ImageType": 0, "PixelsAsFloat": false, "Compress": true },
+      { "CameraName": "front_center", "ImageType": 5, "PixelsAsFloat": false, "Compress": true },
+      { "CameraName": "front_center", "ImageType": 1, "PixelsAsFloat": true, "Compress": false }
+    ]
+  },
+  "SubWindows": [
+    { "WindowID": 0, "CameraName": "front_center", "ImageType": 3, "VehicleName": "drone0", "Visible": true },
+    { "WindowID": 1, "CameraName": "front_center", "ImageType": 5, "VehicleName": "drone0", "Visible": true },
+    { "WindowID": 2, "CameraName": "front_center", "ImageType": 0, "VehicleName": "drone0", "Visible": true }
+  ],
+  "SegmentationSettings": {
+    "InitMethod": "",
+    "MeshNamingMethod": "",
+    "OverrideExisting": false
+  }
+}

@@ -1,0 +1,103 @@
+commands:
+tensorboard --logdir=./tb_logs/
+python .\trainGen.py --algorithm PPO --cnn NatureCNN --total_timesteps 200000 --train_mode depth
+python .\trainGen.py --algorithm PPO --cnn NatureCNN --total_timesteps 200000 --train_mode depth --env_select city --weather --weather_condition SnowOnly
+python .\PCChecks.py compare "c:\Users\cecil\OneDrive\Documents\AirSim\sampleCheck\ValidatorSample.pcd" "c:\Users\cecil\OneDrive\Documents\AirSim\sampleCheck\agentDepthSample.pcd" -k 2 -v .01
+python .\PC3Drecon\airsim_reconstruct.py --last --vis -o ValidatorSample
+python .\pcChecks.py generate "c:\Users\cecil\OneDrive\Documents\AirSim\sampleCheck\ValidatorSample.pcd"  -k 10 -v .1
+python .\PC3Drecon\airsim_colllect_trajectory.py --predefined_z 50 --file_path ./PC3Drecon/posRecord/camera_positions_envNHNormalRet.txt
+python .\inferenceChecks.py --algorithm PPO --cnn NatureCNN --model_path saved_models/ppo_naturecnn_depth/best --test_mode depth --test_type random
+"NoDisplay",
+"SpringArmChase",
+
+Controlled settings
+{
+  "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/master/docs/settings.md",
+  "SettingsVersion": 1.2,
+  "SimMode": "ComputerVision",
+  "Recording": {
+    "RecordOnMove": true,
+    "RecordInterval": 0.05,
+    "Cameras": [
+        { "CameraName": "0", "ImageType": 0, "PixelsAsFloat": false, "Compress": true },
+        { "CameraName": "0", "ImageType": 5, "PixelsAsFloat": false, "Compress": true },
+        { "CameraName": "0", "ImageType": 1, "PixelsAsFloat": true, "Compress": false }
+    ]
+  },
+  "CameraDefaults": {
+    "CaptureSettings": [
+      {
+        "ImageType": 0,
+        "Width": 256,
+        "Height": 192,
+        "FOV_Degrees": 90,
+        "AutoExposureSpeed": 100,
+        "MotionBlurAmount": 0
+      },
+	  {
+        "ImageType": 1,
+        "Width": 256,
+        "Height": 192,
+        "FOV_Degrees": 90,
+        "AutoExposureSpeed": 100,
+        "MotionBlurAmount": 0
+      },
+      {
+        "ImageType": 5,
+        "Width": 256,
+        "Height": 192,
+        "FOV_Degrees": 90,
+        "AutoExposureSpeed": 100,
+        "MotionBlurAmount": 0
+      }
+    ]
+  },
+  "SubWindows": [
+    {"WindowID": 0, "CameraName": "0", "ImageType": 3, "VehicleName": "", "Visible": true},
+    {"WindowID": 1, "CameraName": "0", "ImageType": 5, "VehicleName": "", "Visible": true},
+    {"WindowID": 2, "CameraName": "0", "ImageType": 0, "VehicleName": "", "Visible": true}
+  ],
+  "SegmentationSettings": {
+    "InitMethod": "",
+    "MeshNamingMethod": "",
+    "OverrideExisting": false
+  }
+}
+
+
+RL Settings
+
+{
+  "SettingsVersion": 1.2,
+  "LocalHostIp": "127.0.0.1",
+  "SimMode": "Multirotor",
+  "ClockSpeed": 40,
+  "ViewMode": "NoDisplay",
+  "Vehicles": {
+      "drone0": {
+          "VehicleType": "SimpleFlight",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "Yaw": 0.0
+      }
+  },
+  "CameraDefaults": {
+      "CaptureSettings": [
+          {
+              "ImageType": 0,
+              "Width": 50,
+              "Height": 50,
+              "FOV_Degrees": 120
+          },
+          {
+              "ImageType": 2,
+              "Width": 50,
+              "Height": 50,
+              "FOV_Degrees": 120
+          }
+      ]
+  }
+}
+
+

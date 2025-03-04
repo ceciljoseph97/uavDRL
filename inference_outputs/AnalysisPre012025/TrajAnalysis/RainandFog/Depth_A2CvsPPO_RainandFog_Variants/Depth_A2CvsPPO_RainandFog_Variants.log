@@ -1,0 +1,389 @@
+2024-12-06 20:31:05,222 [INFO] Logging initialized for scenario: 'Depth_A2CvsPPO_RainandFog_Variants'
+2024-12-06 20:31:05,222 [INFO] Received command-line arguments: Scenario='Depth_A2CvsPPO_RainandFog_Variants', Filenames=['D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\RainandFog\\a2c_naturecnn_depth_RainandFog\\a2c_naturecnn_depth_RainandFog_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\RainandFog\\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\RainandFog\\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\RainandFog\\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\RainandFog\\ppo_naturecnn_depth_RainandFog\\ppo_naturecnn_depth_RainandFog_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\RainandFog\\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\RainandFog\\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\RainandFog\\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv']
+2024-12-06 20:31:05,223 [INFO] Starting to plot multiple mean trajectories.
+2024-12-06 20:31:05,373 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv'.
+2024-12-06 20:31:05,374 [INFO] Episode 1 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,375 [INFO] Episode 2 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,376 [INFO] Episode 4 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,376 [INFO] Episode 6 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,377 [INFO] Episode 9 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,379 [INFO] Episode 12 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,379 [INFO] Episode 14 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,380 [INFO] Episode 15 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,380 [INFO] Episode 16 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,382 [INFO] Episode 17 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,382 [INFO] Episode 18 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,383 [INFO] Episode 19 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,384 [INFO] Episode 23 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,384 [INFO] Episode 25 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,385 [INFO] Episode 26 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,385 [INFO] Episode 27 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,386 [INFO] Episode 32 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,388 [INFO] Episode 33 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,389 [INFO] Episode 35 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,390 [INFO] Episode 37 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,390 [INFO] Episode 38 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,392 [INFO] Episode 40 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,393 [INFO] Episode 42 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,393 [INFO] Episode 43 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,395 [INFO] Episode 45 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,396 [INFO] Episode 46 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,396 [INFO] Episode 47 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,397 [INFO] Episode 48 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,398 [INFO] Episode 49 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,399 [INFO] Episode 53 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,400 [INFO] Episode 54 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,400 [INFO] Episode 55 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,401 [INFO] Episode 56 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,401 [INFO] Episode 57 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,402 [INFO] Episode 58 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,403 [INFO] Episode 63 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,403 [INFO] Episode 64 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,404 [INFO] Episode 65 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,405 [INFO] Episode 66 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,406 [INFO] Episode 70 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,407 [INFO] Episode 71 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,408 [INFO] Episode 74 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,409 [INFO] Episode 76 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,410 [INFO] Episode 78 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,412 [INFO] Episode 81 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,412 [INFO] Episode 82 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,413 [INFO] Episode 84 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,414 [INFO] Episode 87 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,414 [INFO] Episode 88 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,416 [INFO] Episode 91 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,417 [INFO] Episode 93 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,417 [INFO] Episode 94 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,418 [INFO] Episode 96 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,420 [INFO] Episode 98 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,420 [INFO] Episode 99 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,421 [INFO] Episode 100 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_RainandFog\a2c_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,435 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv'.
+2024-12-06 20:31:05,438 [INFO] Episode 3 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,438 [INFO] Episode 4 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,439 [INFO] Episode 5 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,441 [INFO] Episode 9 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,441 [INFO] Episode 11 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,442 [INFO] Episode 13 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,444 [INFO] Episode 15 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,444 [INFO] Episode 16 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,446 [INFO] Episode 23 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,448 [INFO] Episode 25 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,449 [INFO] Episode 30 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,449 [INFO] Episode 31 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,450 [INFO] Episode 33 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,452 [INFO] Episode 36 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,452 [INFO] Episode 37 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,453 [INFO] Episode 39 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,456 [INFO] Episode 47 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,456 [INFO] Episode 48 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,458 [INFO] Episode 49 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,462 [INFO] Episode 69 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,467 [INFO] Episode 83 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,468 [INFO] Episode 84 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,470 [INFO] Episode 89 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,473 [INFO] Episode 92 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,474 [INFO] Episode 97 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,475 [INFO] Episode 98 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,490 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv'.
+2024-12-06 20:31:05,494 [INFO] Episode 8 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,496 [INFO] Episode 15 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,497 [INFO] Episode 18 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,498 [INFO] Episode 19 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,501 [INFO] Episode 27 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,502 [INFO] Episode 28 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,505 [INFO] Episode 36 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,507 [INFO] Episode 42 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,509 [INFO] Episode 50 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,510 [INFO] Episode 52 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,511 [INFO] Episode 57 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,514 [INFO] Episode 62 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,515 [INFO] Episode 65 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,516 [INFO] Episode 68 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,518 [INFO] Episode 75 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,520 [INFO] Episode 79 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,522 [INFO] Episode 83 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,523 [INFO] Episode 87 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,524 [INFO] Episode 93 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,586 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv'.
+2024-12-06 20:31:05,588 [INFO] Episode 4 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,589 [INFO] Episode 5 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,589 [INFO] Episode 6 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,590 [INFO] Episode 10 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,591 [INFO] Episode 13 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,592 [INFO] Episode 15 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,593 [INFO] Episode 19 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,594 [INFO] Episode 21 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,596 [INFO] Episode 24 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,597 [INFO] Episode 28 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,598 [INFO] Episode 29 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,600 [INFO] Episode 33 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,602 [INFO] Episode 40 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,602 [INFO] Episode 43 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,606 [INFO] Episode 49 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,608 [INFO] Episode 53 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,609 [INFO] Episode 55 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,611 [INFO] Episode 60 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,611 [INFO] Episode 61 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,613 [INFO] Episode 66 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,616 [INFO] Episode 73 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,621 [INFO] Episode 85 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,622 [INFO] Episode 88 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,623 [INFO] Episode 92 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog\a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,638 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv'.
+2024-12-06 20:31:05,640 [INFO] Episode 1 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,641 [INFO] Episode 4 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,641 [INFO] Episode 6 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,642 [INFO] Episode 7 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,642 [INFO] Episode 9 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,642 [INFO] Episode 10 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,644 [INFO] Episode 12 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,645 [INFO] Episode 14 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,646 [INFO] Episode 16 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,646 [INFO] Episode 17 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,647 [INFO] Episode 19 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,648 [INFO] Episode 22 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,649 [INFO] Episode 24 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,650 [INFO] Episode 25 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,651 [INFO] Episode 26 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,651 [INFO] Episode 27 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,652 [INFO] Episode 31 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,653 [INFO] Episode 32 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,654 [INFO] Episode 33 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,654 [INFO] Episode 34 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,655 [INFO] Episode 37 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,657 [INFO] Episode 39 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,658 [INFO] Episode 41 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,658 [INFO] Episode 42 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,659 [INFO] Episode 43 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,660 [INFO] Episode 44 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,661 [INFO] Episode 50 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,662 [INFO] Episode 51 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,663 [INFO] Episode 52 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,663 [INFO] Episode 54 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,666 [INFO] Episode 59 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,667 [INFO] Episode 61 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,670 [INFO] Episode 69 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,670 [INFO] Episode 70 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,671 [INFO] Episode 73 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,672 [INFO] Episode 75 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,674 [INFO] Episode 76 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,675 [INFO] Episode 79 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,676 [INFO] Episode 80 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,677 [INFO] Episode 82 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,677 [INFO] Episode 84 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,679 [INFO] Episode 90 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,683 [INFO] Episode 98 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,684 [INFO] Episode 99 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_RainandFog\ppo_naturecnn_depth_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,697 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv'.
+2024-12-06 20:31:05,699 [INFO] Episode 2 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,700 [INFO] Episode 9 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,702 [INFO] Episode 12 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,704 [INFO] Episode 13 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,706 [INFO] Episode 18 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,708 [INFO] Episode 25 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,711 [INFO] Episode 36 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,717 [INFO] Episode 54 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,719 [INFO] Episode 61 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,721 [INFO] Episode 63 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,722 [INFO] Episode 66 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,727 [INFO] Episode 85 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,728 [INFO] Episode 88 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,730 [INFO] Episode 96 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog\ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,749 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv'.
+2024-12-06 20:31:05,750 [INFO] Episode 1 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,757 [INFO] Episode 30 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,759 [INFO] Episode 32 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,759 [INFO] Episode 33 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,763 [INFO] Episode 49 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,765 [INFO] Episode 58 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,767 [INFO] Episode 65 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,768 [INFO] Episode 68 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,771 [INFO] Episode 77 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,777 [INFO] Episode 92 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,780 [INFO] Episode 95 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,781 [INFO] Episode 99 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog\ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,798 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv'.
+2024-12-06 20:31:05,799 [INFO] Episode 1 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,800 [INFO] Episode 4 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,804 [INFO] Episode 15 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,805 [INFO] Episode 16 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,806 [INFO] Episode 17 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,808 [INFO] Episode 24 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,810 [INFO] Episode 29 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,813 [INFO] Episode 44 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,814 [INFO] Episode 45 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,815 [INFO] Episode 46 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,817 [INFO] Episode 50 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,817 [INFO] Episode 52 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,822 [INFO] Episode 64 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,823 [INFO] Episode 66 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,827 [INFO] Episode 80 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,828 [INFO] Episode 81 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,830 [INFO] Episode 86 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,831 [INFO] Episode 91 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,834 [INFO] Episode 98 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,835 [INFO] Episode 99 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog\ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 20:31:05,844 [INFO] Wall positions determined at: [3.7, 7.4, 11.100000000000001, 14.8, 18.5, 22.2]
+2024-12-06 20:31:05,847 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_RainandFog_positions.csv' with color 'blue'.
+2024-12-06 20:31:05,849 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' with color 'green'.
+2024-12-06 20:31:05,850 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' with color 'orange'.
+2024-12-06 20:31:05,851 [INFO] Plotted mean trajectory from 'a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' with color 'purple'.
+2024-12-06 20:31:05,852 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_RainandFog_positions.csv' with color 'cyan'.
+2024-12-06 20:31:05,854 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' with color 'magenta'.
+2024-12-06 20:31:05,854 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' with color 'yellow'.
+2024-12-06 20:31:05,856 [INFO] Plotted mean trajectory from 'ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' with color 'brown'.
+2024-12-06 20:31:05,910 [INFO] Added wall surface at X=3.7 with Trajectory Variations and Passages.
+2024-12-06 20:31:05,967 [INFO] Added wall surface at X=7.4 with Trajectory Variations and Passages.
+2024-12-06 20:31:06,023 [INFO] Added wall surface at X=11.100000000000001 with Trajectory Variations and Passages.
+2024-12-06 20:31:06,085 [INFO] Added wall surface at X=14.8 with Trajectory Variations and Passages.
+2024-12-06 20:31:06,154 [INFO] Added wall surface at X=18.5 with Trajectory Variations and Passages.
+2024-12-06 20:31:06,156 [WARNING] No data near wall at X=22.2. Skipping hole creation.
+2024-12-06 20:31:06,156 [INFO] Completed plotting walls and holes.
+2024-12-06 20:31:06,333 [INFO] Similarity between 'a2c_naturecnn_depth_RainandFog_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv':
+2024-12-06 20:31:06,333 [INFO]   - Cosine Similarity (Mean): 0.3366
+2024-12-06 20:31:06,333 [INFO]   - Pearson Correlation (Mean): 0.7017
+2024-12-06 20:31:06,333 [INFO]   - Normalized Cross-Correlation (Mean): 0.7058
+2024-12-06 20:31:06,333 [INFO]   - Lag at Max NCC (Y): -3, (Z): 0
+2024-12-06 20:31:06,345 [INFO] Similarity between 'a2c_naturecnn_depth_RainandFog_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv':
+2024-12-06 20:31:06,345 [INFO]   - Cosine Similarity (Mean): 0.8676
+2024-12-06 20:31:06,345 [INFO]   - Pearson Correlation (Mean): 0.7003
+2024-12-06 20:31:06,345 [INFO]   - Normalized Cross-Correlation (Mean): 0.7300
+2024-12-06 20:31:06,345 [INFO]   - Lag at Max NCC (Y): 2, (Z): -6
+2024-12-06 20:31:06,355 [INFO] Similarity between 'a2c_naturecnn_depth_RainandFog_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv':
+2024-12-06 20:31:06,357 [INFO]   - Cosine Similarity (Mean): 0.6752
+2024-12-06 20:31:06,357 [INFO]   - Pearson Correlation (Mean): 0.7145
+2024-12-06 20:31:06,357 [INFO]   - Normalized Cross-Correlation (Mean): 0.7961
+2024-12-06 20:31:06,357 [INFO]   - Lag at Max NCC (Y): -10, (Z): -14
+2024-12-06 20:31:06,367 [INFO] Similarity between 'a2c_naturecnn_depth_RainandFog_positions.csv' and 'ppo_naturecnn_depth_RainandFog_positions.csv':
+2024-12-06 20:31:06,367 [INFO]   - Cosine Similarity (Mean): 0.9934
+2024-12-06 20:31:06,367 [INFO]   - Pearson Correlation (Mean): 0.9784
+2024-12-06 20:31:06,367 [INFO]   - Normalized Cross-Correlation (Mean): 0.9784
+2024-12-06 20:31:06,367 [INFO]   - Lag at Max NCC (Y): 0, (Z): 0
+2024-12-06 20:31:06,380 [INFO] Similarity between 'a2c_naturecnn_depth_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv':
+2024-12-06 20:31:06,380 [INFO]   - Cosine Similarity (Mean): 0.8580
+2024-12-06 20:31:06,381 [INFO]   - Pearson Correlation (Mean): 0.6515
+2024-12-06 20:31:06,381 [INFO]   - Normalized Cross-Correlation (Mean): 0.8151
+2024-12-06 20:31:06,381 [INFO]   - Lag at Max NCC (Y): -1, (Z): -28
+2024-12-06 20:31:06,393 [INFO] Similarity between 'a2c_naturecnn_depth_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv':
+2024-12-06 20:31:06,393 [INFO]   - Cosine Similarity (Mean): 0.9397
+2024-12-06 20:31:06,393 [INFO]   - Pearson Correlation (Mean): 0.8198
+2024-12-06 20:31:06,393 [INFO]   - Normalized Cross-Correlation (Mean): 0.8842
+2024-12-06 20:31:06,394 [INFO]   - Lag at Max NCC (Y): 2, (Z): -15
+2024-12-06 20:31:06,835 [INFO] Cross-correlation plot saved as 'inference_outputs\Depth_A2CvsPPO_RainandFog_Variants\Depth_A2CvsPPO_RainandFog_Variants_cross_correlation_part1.png'.
+2024-12-06 20:31:07,005 [INFO] Similarity between 'a2c_naturecnn_depth_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv':
+2024-12-06 20:31:07,005 [INFO]   - Cosine Similarity (Mean): 0.9302
+2024-12-06 20:31:07,005 [INFO]   - Pearson Correlation (Mean): 0.7712
+2024-12-06 20:31:07,006 [INFO]   - Normalized Cross-Correlation (Mean): 0.8442
+2024-12-06 20:31:07,006 [INFO]   - Lag at Max NCC (Y): 3, (Z): -15
+2024-12-06 20:31:07,014 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv':
+2024-12-06 20:31:07,015 [INFO]   - Cosine Similarity (Mean): 0.5178
+2024-12-06 20:31:07,015 [INFO]   - Pearson Correlation (Mean): 0.8388
+2024-12-06 20:31:07,015 [INFO]   - Normalized Cross-Correlation (Mean): 0.8537
+2024-12-06 20:31:07,015 [INFO]   - Lag at Max NCC (Y): 3, (Z): -1
+2024-12-06 20:31:07,029 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv':
+2024-12-06 20:31:07,029 [INFO]   - Cosine Similarity (Mean): 0.7243
+2024-12-06 20:31:07,029 [INFO]   - Pearson Correlation (Mean): 0.8137
+2024-12-06 20:31:07,029 [INFO]   - Normalized Cross-Correlation (Mean): 0.8353
+2024-12-06 20:31:07,030 [INFO]   - Lag at Max NCC (Y): 1, (Z): -8
+2024-12-06 20:31:07,046 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' and 'ppo_naturecnn_depth_RainandFog_positions.csv':
+2024-12-06 20:31:07,046 [INFO]   - Cosine Similarity (Mean): 0.3562
+2024-12-06 20:31:07,048 [INFO]   - Pearson Correlation (Mean): 0.7332
+2024-12-06 20:31:07,048 [INFO]   - Normalized Cross-Correlation (Mean): 0.7332
+2024-12-06 20:31:07,048 [INFO]   - Lag at Max NCC (Y): 0, (Z): 1
+2024-12-06 20:31:07,059 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv':
+2024-12-06 20:31:07,059 [INFO]   - Cosine Similarity (Mean): 0.3421
+2024-12-06 20:31:07,059 [INFO]   - Pearson Correlation (Mean): 0.6219
+2024-12-06 20:31:07,060 [INFO]   - Normalized Cross-Correlation (Mean): 0.8237
+2024-12-06 20:31:07,060 [INFO]   - Lag at Max NCC (Y): 3, (Z): 48
+2024-12-06 20:31:07,070 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv':
+2024-12-06 20:31:07,072 [INFO]   - Cosine Similarity (Mean): 0.3917
+2024-12-06 20:31:07,072 [INFO]   - Pearson Correlation (Mean): 0.7519
+2024-12-06 20:31:07,072 [INFO]   - Normalized Cross-Correlation (Mean): 0.7925
+2024-12-06 20:31:07,072 [INFO]   - Lag at Max NCC (Y): 0, (Z): -19
+2024-12-06 20:31:07,473 [INFO] Cross-correlation plot saved as 'inference_outputs\Depth_A2CvsPPO_RainandFog_Variants\Depth_A2CvsPPO_RainandFog_Variants_cross_correlation_part2.png'.
+2024-12-06 20:31:07,707 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv':
+2024-12-06 20:31:07,707 [INFO]   - Cosine Similarity (Mean): 0.3637
+2024-12-06 20:31:07,708 [INFO]   - Pearson Correlation (Mean): 0.7310
+2024-12-06 20:31:07,708 [INFO]   - Normalized Cross-Correlation (Mean): 0.8109
+2024-12-06 20:31:07,708 [INFO]   - Lag at Max NCC (Y): 0, (Z): -22
+2024-12-06 20:31:07,719 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' and 'a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv':
+2024-12-06 20:31:07,719 [INFO]   - Cosine Similarity (Mean): 0.8449
+2024-12-06 20:31:07,719 [INFO]   - Pearson Correlation (Mean): 0.8867
+2024-12-06 20:31:07,719 [INFO]   - Normalized Cross-Correlation (Mean): 0.8867
+2024-12-06 20:31:07,719 [INFO]   - Lag at Max NCC (Y): 0, (Z): 0
+2024-12-06 20:31:07,730 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' and 'ppo_naturecnn_depth_RainandFog_positions.csv':
+2024-12-06 20:31:07,730 [INFO]   - Cosine Similarity (Mean): 0.8970
+2024-12-06 20:31:07,730 [INFO]   - Pearson Correlation (Mean): 0.7861
+2024-12-06 20:31:07,730 [INFO]   - Normalized Cross-Correlation (Mean): 0.7912
+2024-12-06 20:31:07,730 [INFO]   - Lag at Max NCC (Y): 0, (Z): 4
+2024-12-06 20:31:07,741 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv':
+2024-12-06 20:31:07,742 [INFO]   - Cosine Similarity (Mean): 0.8527
+2024-12-06 20:31:07,742 [INFO]   - Pearson Correlation (Mean): 0.7504
+2024-12-06 20:31:07,742 [INFO]   - Normalized Cross-Correlation (Mean): 0.7869
+2024-12-06 20:31:07,742 [INFO]   - Lag at Max NCC (Y): -1, (Z): -27
+2024-12-06 20:31:07,756 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv':
+2024-12-06 20:31:07,756 [INFO]   - Cosine Similarity (Mean): 0.9380
+2024-12-06 20:31:07,757 [INFO]   - Pearson Correlation (Mean): 0.8783
+2024-12-06 20:31:07,757 [INFO]   - Normalized Cross-Correlation (Mean): 0.8962
+2024-12-06 20:31:07,757 [INFO]   - Lag at Max NCC (Y): 2, (Z): -13
+2024-12-06 20:31:07,768 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv':
+2024-12-06 20:31:07,769 [INFO]   - Cosine Similarity (Mean): 0.9389
+2024-12-06 20:31:07,769 [INFO]   - Pearson Correlation (Mean): 0.8803
+2024-12-06 20:31:07,769 [INFO]   - Normalized Cross-Correlation (Mean): 0.9057
+2024-12-06 20:31:07,769 [INFO]   - Lag at Max NCC (Y): 3, (Z): -13
+2024-12-06 20:31:08,184 [INFO] Cross-correlation plot saved as 'inference_outputs\Depth_A2CvsPPO_RainandFog_Variants\Depth_A2CvsPPO_RainandFog_Variants_cross_correlation_part3.png'.
+2024-12-06 20:31:08,399 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' and 'ppo_naturecnn_depth_RainandFog_positions.csv':
+2024-12-06 20:31:08,399 [INFO]   - Cosine Similarity (Mean): 0.7064
+2024-12-06 20:31:08,399 [INFO]   - Pearson Correlation (Mean): 0.7785
+2024-12-06 20:31:08,400 [INFO]   - Normalized Cross-Correlation (Mean): 0.8438
+2024-12-06 20:31:08,400 [INFO]   - Lag at Max NCC (Y): 8, (Z): 14
+2024-12-06 20:31:08,410 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv':
+2024-12-06 20:31:08,411 [INFO]   - Cosine Similarity (Mean): 0.7760
+2024-12-06 20:31:08,411 [INFO]   - Pearson Correlation (Mean): 0.8490
+2024-12-06 20:31:08,411 [INFO]   - Normalized Cross-Correlation (Mean): 0.8722
+2024-12-06 20:31:08,412 [INFO]   - Lag at Max NCC (Y): 8, (Z): -13
+2024-12-06 20:31:08,423 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv':
+2024-12-06 20:31:08,424 [INFO]   - Cosine Similarity (Mean): 0.7966
+2024-12-06 20:31:08,424 [INFO]   - Pearson Correlation (Mean): 0.8873
+2024-12-06 20:31:08,424 [INFO]   - Normalized Cross-Correlation (Mean): 0.9001
+2024-12-06 20:31:08,424 [INFO]   - Lag at Max NCC (Y): 12, (Z): 1
+2024-12-06 20:31:08,440 [INFO] Similarity between 'a2c_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv':
+2024-12-06 20:31:08,440 [INFO]   - Cosine Similarity (Mean): 0.7747
+2024-12-06 20:31:08,440 [INFO]   - Pearson Correlation (Mean): 0.8666
+2024-12-06 20:31:08,440 [INFO]   - Normalized Cross-Correlation (Mean): 0.8908
+2024-12-06 20:31:08,442 [INFO]   - Lag at Max NCC (Y): 17, (Z): -4
+2024-12-06 20:31:08,452 [INFO] Similarity between 'ppo_naturecnn_depth_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv':
+2024-12-06 20:31:08,454 [INFO]   - Cosine Similarity (Mean): 0.8572
+2024-12-06 20:31:08,454 [INFO]   - Pearson Correlation (Mean): 0.6638
+2024-12-06 20:31:08,454 [INFO]   - Normalized Cross-Correlation (Mean): 0.8349
+2024-12-06 20:31:08,454 [INFO]   - Lag at Max NCC (Y): 0, (Z): -29
+2024-12-06 20:31:08,463 [INFO] Similarity between 'ppo_naturecnn_depth_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv':
+2024-12-06 20:31:08,463 [INFO]   - Cosine Similarity (Mean): 0.9439
+2024-12-06 20:31:08,463 [INFO]   - Pearson Correlation (Mean): 0.8341
+2024-12-06 20:31:08,465 [INFO]   - Normalized Cross-Correlation (Mean): 0.8990
+2024-12-06 20:31:08,465 [INFO]   - Lag at Max NCC (Y): 3, (Z): -15
+2024-12-06 20:31:08,942 [INFO] Cross-correlation plot saved as 'inference_outputs\Depth_A2CvsPPO_RainandFog_Variants\Depth_A2CvsPPO_RainandFog_Variants_cross_correlation_part4.png'.
+2024-12-06 20:31:09,108 [INFO] Similarity between 'ppo_naturecnn_depth_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv':
+2024-12-06 20:31:09,108 [INFO]   - Cosine Similarity (Mean): 0.9317
+2024-12-06 20:31:09,108 [INFO]   - Pearson Correlation (Mean): 0.7792
+2024-12-06 20:31:09,108 [INFO]   - Normalized Cross-Correlation (Mean): 0.8592
+2024-12-06 20:31:09,108 [INFO]   - Lag at Max NCC (Y): 5, (Z): -15
+2024-12-06 20:31:09,118 [INFO] Similarity between 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv':
+2024-12-06 20:31:09,119 [INFO]   - Cosine Similarity (Mean): 0.9094
+2024-12-06 20:31:09,119 [INFO]   - Pearson Correlation (Mean): 0.8361
+2024-12-06 20:31:09,119 [INFO]   - Normalized Cross-Correlation (Mean): 0.8590
+2024-12-06 20:31:09,119 [INFO]   - Lag at Max NCC (Y): 0, (Z): 10
+2024-12-06 20:31:09,129 [INFO] Similarity between 'ppo_naturecnn_depth_obstacle_weather_leavesfalling_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv':
+2024-12-06 20:31:09,129 [INFO]   - Cosine Similarity (Mean): 0.9105
+2024-12-06 20:31:09,129 [INFO]   - Pearson Correlation (Mean): 0.8387
+2024-12-06 20:31:09,129 [INFO]   - Normalized Cross-Correlation (Mean): 0.8581
+2024-12-06 20:31:09,129 [INFO]   - Lag at Max NCC (Y): 0, (Z): 9
+2024-12-06 20:31:09,141 [INFO] Similarity between 'ppo_naturecnn_depth_obstacle_weather_rainandfog_RainandFog_positions.csv' and 'ppo_naturecnn_depth_obstacle_weather_snowonly_RainandFog_positions.csv':
+2024-12-06 20:31:09,141 [INFO]   - Cosine Similarity (Mean): 0.9862
+2024-12-06 20:31:09,141 [INFO]   - Pearson Correlation (Mean): 0.9574
+2024-12-06 20:31:09,141 [INFO]   - Normalized Cross-Correlation (Mean): 0.9574
+2024-12-06 20:31:09,141 [INFO]   - Lag at Max NCC (Y): 0, (Z): 0
+2024-12-06 20:31:09,463 [INFO] Cross-correlation plot saved as 'inference_outputs\Depth_A2CvsPPO_RainandFog_Variants\Depth_A2CvsPPO_RainandFog_Variants_cross_correlation_part5.png'.
+2024-12-06 20:31:10,149 [INFO] Mean trajectories plotted and saved as 'inference_outputs\Depth_A2CvsPPO_RainandFog_Variants\Depth_A2CvsPPO_RainandFog_Variants_mean_trajectories.png'.
+2024-12-06 20:31:10,157 [INFO] Similarity summary saved as 'inference_outputs\Depth_A2CvsPPO_RainandFog_Variants\Depth_A2CvsPPO_RainandFog_Variants_similarity_summary.csv'.

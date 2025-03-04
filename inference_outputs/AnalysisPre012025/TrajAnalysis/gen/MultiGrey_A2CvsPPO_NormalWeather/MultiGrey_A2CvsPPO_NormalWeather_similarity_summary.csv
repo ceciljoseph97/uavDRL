@@ -1,0 +1,2 @@
+Pair,Cosine Similarity (Mean),Pearson Correlation (Mean),Normalized Cross-Correlation (Mean),Lag at Max NCC (Y),Lag at Max NCC (Z)
+a2c_naturecnn_multi_rgb_positions.csv vs ppo_naturecnn_multi_rgb_positions.csv,0.6893,0.8648,0.8663,3,0

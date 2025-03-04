@@ -1,0 +1,14 @@
+2025-02-09 23:24:42,987 [INFO] Logging initialized for scenario: 'PPO-DFM -AllWeather'
+2025-02-09 23:24:42,988 [INFO] Scenario='PPO-DFM -AllWeather', Filenames=['inference_outputs\\PPO_All_FM_SnowOnly\\PPO_All_FM_SnowOnly_positions.csv', 'inference_outputs\\PPO_All_FM_RainandFog\\PPO_All_FM_RainandFog_positions.csv', 'inference_outputs\\PPO_All_FM_LeavesFalling\\PPO_All_FM_LeavesFalling_positions.csv', 'inference_outputs\\PPO_All_FM\\PPO_All_FM_positions.csv']
+2025-02-09 23:24:42,988 [INFO] Plotting multiple mean trajectories with circular 'Passages' only.
+2025-02-09 23:24:43,096 [INFO] Successfully read 'inference_outputs\PPO_All_FM_SnowOnly\PPO_All_FM_SnowOnly_positions.csv'.
+2025-02-09 23:24:43,129 [INFO] Successfully read 'inference_outputs\PPO_All_FM_RainandFog\PPO_All_FM_RainandFog_positions.csv'.
+2025-02-09 23:24:43,160 [INFO] Successfully read 'inference_outputs\PPO_All_FM_LeavesFalling\PPO_All_FM_LeavesFalling_positions.csv'.
+2025-02-09 23:24:43,191 [INFO] Successfully read 'inference_outputs\PPO_All_FM\PPO_All_FM_positions.csv'.
+2025-02-09 23:24:43,218 [INFO] Walls determined at: [3.7, 7.4, 11.100000000000001, 14.8, 18.5, 22.2]
+2025-02-09 23:24:43,220 [INFO] Plotted mean trajectory from 'PPO_All_FM_SnowOnly_positions.csv' with label 'PPO-DFM under SnowOnly Weather' in color 'blue'.
+2025-02-09 23:24:43,221 [INFO] Plotted mean trajectory from 'PPO_All_FM_RainandFog_positions.csv' with label 'PPO-DFM under RainandFog Weather' in color 'green'.
+2025-02-09 23:24:43,221 [INFO] Plotted mean trajectory from 'PPO_All_FM_LeavesFalling_positions.csv' with label 'PPO-DFM under LeavesFalling Weather' in color 'orange'.
+2025-02-09 23:24:43,222 [INFO] Plotted mean trajectory from 'PPO_All_FM_positions.csv' with label 'PPO-DFM under Normal Weather' in color 'purple'.
+2025-02-09 23:24:43,381 [WARNING] No data near wall at X=22.2. Skipping hole creation.
+2025-02-09 23:24:43,826 [INFO] Mean trajectories saved as 'inference_outputs\PPO-DFM -AllWeather\PPO-DFM -AllWeather_mean_trajectories.png' with circular 'Passages' only, no similarity.

@@ -1,0 +1,44 @@
+Comparison Report between ReferenceTravel and A2CCity
+============================================================
+
+Voxel Size: 0.1
+Number of Nearest Neighbors (k): 10
+
+ICP Alignment Fitness: 0.2943
+ICP Inlier RMSE: 0.070847
+
+ICP Transformation Matrix:
+[[ 9.99999999e-01 -3.17585348e-05 -7.45867547e-06 -5.95166617e-03]
+ [ 3.17587853e-05  9.99999999e-01  3.35789875e-05 -2.58410376e-02]
+ [ 7.45760904e-06 -3.35792244e-05  9.99999999e-01 -2.84425585e-03]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  1.00000000e+00]]
+
+IoU: 0.0026
+
+--- Density Statistics ---
+ReferenceTravel:
+  Minimum Density: 0.168817
+  Maximum Density: 13.960020
+  Mean Density: 6.653582
+  Median Density: 6.936005
+  Standard Deviation: 1.670032
+
+A2CCity:
+  Minimum Density: 0.161627
+  Maximum Density: 16.050331
+  Mean Density: 4.589383
+  Median Density: 3.633438
+  Standard Deviation: 2.238017
+
+--- Mapped Densities Statistics ---
+  Mean Mapped Density: 6.690181
+  Median Mapped Density: 7.400806
+  Standard Deviation: 2.074167
+
+--- Density Difference Statistics ---
+Mean Density Difference: -0.036599
+Median Density Difference: -0.233380
+Standard Deviation of Density Differences: 1.863949
+
+Number of Significant Differences: 136949
+Proportion of Significant Points: 6.03%

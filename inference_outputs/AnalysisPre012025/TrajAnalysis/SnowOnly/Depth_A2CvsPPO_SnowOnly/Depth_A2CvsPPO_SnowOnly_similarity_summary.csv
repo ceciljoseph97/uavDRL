@@ -1,0 +1,2 @@
+Pair,Cosine Similarity (Mean),Pearson Correlation (Mean),Normalized Cross-Correlation (Mean),Lag at Max NCC (Y),Lag at Max NCC (Z)
+a2c_naturecnn_depth_SnowOnly_positions.csv vs ppo_naturecnn_depth_SnowOnly_positions.csv,0.9911,0.9702,0.9702,0,0

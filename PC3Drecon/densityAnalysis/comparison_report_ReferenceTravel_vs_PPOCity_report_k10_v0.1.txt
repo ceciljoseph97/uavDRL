@@ -1,0 +1,44 @@
+Comparison Report between ReferenceTravel and PPOCity
+============================================================
+
+Voxel Size: 0.1
+Number of Nearest Neighbors (k): 10
+
+ICP Alignment Fitness: 0.2834
+ICP Inlier RMSE: 0.073729
+
+ICP Transformation Matrix:
+[[ 9.99999999e-01 -1.45080569e-05  3.07724623e-05 -2.15187881e-02]
+ [ 1.45053443e-05  9.99999996e-01  8.81509350e-05 -1.69707237e-03]
+ [-3.07737410e-05 -8.81504886e-05  9.99999996e-01  4.78059917e-04]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  1.00000000e+00]]
+
+IoU: 0.0036
+
+--- Density Statistics ---
+ReferenceTravel:
+  Minimum Density: 0.168817
+  Maximum Density: 13.960020
+  Mean Density: 6.653582
+  Median Density: 6.936005
+  Standard Deviation: 1.670032
+
+PPOCity:
+  Minimum Density: 0.147137
+  Maximum Density: 16.126047
+  Mean Density: 4.731653
+  Median Density: 3.931300
+  Standard Deviation: 2.164801
+
+--- Mapped Densities Statistics ---
+  Mean Mapped Density: 6.954668
+  Median Mapped Density: 7.641909
+  Standard Deviation: 2.003899
+
+--- Density Difference Statistics ---
+Mean Density Difference: -0.301086
+Median Density Difference: -0.420561
+Standard Deviation of Density Differences: 1.808764
+
+Number of Significant Differences: 136143
+Proportion of Significant Points: 5.99%

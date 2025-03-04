@@ -1,0 +1,7 @@
+Pair,Cosine Similarity (Mean),Pearson Correlation (Mean),Normalized Cross-Correlation (Mean),Lag at Max NCC (Y),Lag at Max NCC (Z)
+ppo_naturecnn_single_rgb_positions.csv vs ppo_naturecnn_single_rgb_obstacle_weather_leavesfalling_positions.csv,0.9725,0.9271,0.9271,0,0
+ppo_naturecnn_single_rgb_positions.csv vs ppo_naturecnn_single_rgb_obstacle_weather_rainandfog_positions.csv,0.8214,0.5273,0.5845,-96,0
+ppo_naturecnn_single_rgb_positions.csv vs ppo_naturecnn_single_rgb_obstacle_weather_snowonly_positions.csv,0.9084,0.6416,0.7407,-26,-4
+ppo_naturecnn_single_rgb_obstacle_weather_leavesfalling_positions.csv vs ppo_naturecnn_single_rgb_obstacle_weather_rainandfog_positions.csv,0.8379,0.5634,0.5881,-107,0
+ppo_naturecnn_single_rgb_obstacle_weather_leavesfalling_positions.csv vs ppo_naturecnn_single_rgb_obstacle_weather_snowonly_positions.csv,0.9229,0.68,0.7787,-28,-8
+ppo_naturecnn_single_rgb_obstacle_weather_rainandfog_positions.csv vs ppo_naturecnn_single_rgb_obstacle_weather_snowonly_positions.csv,0.7825,0.3424,0.6353,-50,0

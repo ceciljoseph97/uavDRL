@@ -1,0 +1,14 @@
+TrainEnv:
+  sections:
+  - offset:
+    - 0
+    target:
+      x: -37.0
+      y: -80.0
+      z: -5.0
+  - offset:
+    - 4
+    target:
+      x: -122.0
+      y: -120.0
+      z: -5.0

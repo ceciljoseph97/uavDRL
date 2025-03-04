@@ -1,0 +1,96 @@
+2024-12-06 19:30:17,816 [INFO] Logging initialized for scenario: 'RGB_A2CvsPPO_NormalWeather'
+2024-12-06 19:30:17,818 [INFO] Received command-line arguments: Scenario='RGB_A2CvsPPO_NormalWeather', Filenames=['D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\gen\\a2c_naturecnn_single_rgb\\a2c_naturecnn_single_rgb_positions.csv', 'D:\\Masters\\Sem5\\uavRL\\inference_outputs\\Trajectories\\gen\\ppo_naturecnn_single_rgb\\ppo_naturecnn_single_rgb_positions.csv']
+2024-12-06 19:30:17,818 [INFO] Starting to plot multiple mean trajectories.
+2024-12-06 19:30:17,963 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv'.
+2024-12-06 19:30:17,967 [INFO] Episode 1 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,967 [INFO] Episode 2 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,969 [INFO] Episode 6 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,970 [INFO] Episode 7 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,971 [INFO] Episode 8 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,971 [INFO] Episode 11 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,973 [INFO] Episode 15 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,974 [INFO] Episode 16 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,975 [INFO] Episode 17 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,977 [INFO] Episode 24 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,979 [INFO] Episode 27 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,980 [INFO] Episode 31 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,981 [INFO] Episode 32 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,982 [INFO] Episode 34 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,983 [INFO] Episode 38 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,983 [INFO] Episode 40 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,984 [INFO] Episode 41 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,985 [INFO] Episode 44 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,986 [INFO] Episode 46 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,989 [INFO] Episode 53 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,990 [INFO] Episode 54 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,991 [INFO] Episode 57 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,992 [INFO] Episode 59 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,994 [INFO] Episode 62 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,994 [INFO] Episode 63 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,996 [INFO] Episode 65 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,997 [INFO] Episode 66 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,998 [INFO] Episode 70 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:17,999 [INFO] Episode 73 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,000 [INFO] Episode 74 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,001 [INFO] Episode 78 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,004 [INFO] Episode 84 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,006 [INFO] Episode 86 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,007 [INFO] Episode 87 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,008 [INFO] Episode 89 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,009 [INFO] Episode 91 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,011 [INFO] Episode 96 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,011 [INFO] Episode 98 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,013 [INFO] Episode 99 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\a2c_naturecnn_single_rgb\a2c_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,024 [INFO] Successfully read 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv'.
+2024-12-06 19:30:18,027 [INFO] Episode 1 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,028 [INFO] Episode 3 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,029 [INFO] Episode 7 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,030 [INFO] Episode 8 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,031 [INFO] Episode 9 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,033 [INFO] Episode 16 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,033 [INFO] Episode 17 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,034 [INFO] Episode 20 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,035 [INFO] Episode 21 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,036 [INFO] Episode 22 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,036 [INFO] Episode 24 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,038 [INFO] Episode 25 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,039 [INFO] Episode 31 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,040 [INFO] Episode 33 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,042 [INFO] Episode 36 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,043 [INFO] Episode 38 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,044 [INFO] Episode 40 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,044 [INFO] Episode 41 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,047 [INFO] Episode 49 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,048 [INFO] Episode 50 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,048 [INFO] Episode 53 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,050 [INFO] Episode 54 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,052 [INFO] Episode 63 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,053 [INFO] Episode 65 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,054 [INFO] Episode 66 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,056 [INFO] Episode 77 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,056 [INFO] Episode 78 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,058 [INFO] Episode 80 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,060 [INFO] Episode 84 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,061 [INFO] Episode 86 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,062 [INFO] Episode 88 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,062 [INFO] Episode 89 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,065 [INFO] Episode 94 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,066 [INFO] Episode 96 in 'D:\Masters\Sem5\uavRL\inference_outputs\Trajectories\gen\ppo_naturecnn_single_rgb\ppo_naturecnn_single_rgb_positions.csv' did not travel at least 9 meters. Skipping.
+2024-12-06 19:30:18,074 [INFO] Wall positions determined at: [3.7, 7.4, 11.100000000000001, 14.8, 18.5, 22.2]
+2024-12-06 19:30:18,077 [INFO] Plotted mean trajectory from 'a2c_naturecnn_single_rgb_positions.csv' with color 'blue'.
+2024-12-06 19:30:18,078 [INFO] Plotted mean trajectory from 'ppo_naturecnn_single_rgb_positions.csv' with color 'green'.
+2024-12-06 19:30:18,169 [INFO] Added wall surface at X=3.7 with Trajectory Variations and Passages.
+2024-12-06 19:30:18,221 [INFO] Added wall surface at X=7.4 with Trajectory Variations and Passages.
+2024-12-06 19:30:18,276 [INFO] Added wall surface at X=11.100000000000001 with Trajectory Variations and Passages.
+2024-12-06 19:30:18,328 [INFO] Added wall surface at X=14.8 with Trajectory Variations and Passages.
+2024-12-06 19:30:18,382 [INFO] Added wall surface at X=18.5 with Trajectory Variations and Passages.
+2024-12-06 19:30:18,385 [WARNING] No data near wall at X=22.2. Skipping hole creation.
+2024-12-06 19:30:18,385 [INFO] Completed plotting walls and holes.
+2024-12-06 19:30:18,548 [INFO] Similarity between 'a2c_naturecnn_single_rgb_positions.csv' and 'ppo_naturecnn_single_rgb_positions.csv':
+2024-12-06 19:30:18,548 [INFO]   - Cosine Similarity (Mean): 0.9940
+2024-12-06 19:30:18,548 [INFO]   - Pearson Correlation (Mean): 0.9732
+2024-12-06 19:30:18,548 [INFO]   - Normalized Cross-Correlation (Mean): 0.9732
+2024-12-06 19:30:18,548 [INFO]   - Lag at Max NCC (Y): 0, (Z): 0
+2024-12-06 19:30:18,729 [INFO] Cross-correlation plot saved as 'inference_outputs\RGB_A2CvsPPO_NormalWeather\RGB_A2CvsPPO_NormalWeather_cross_correlation_part1.png'.
+2024-12-06 19:30:19,206 [INFO] Mean trajectories plotted and saved as 'inference_outputs\RGB_A2CvsPPO_NormalWeather\RGB_A2CvsPPO_NormalWeather_mean_trajectories.png'.
+2024-12-06 19:30:19,212 [INFO] Similarity summary saved as 'inference_outputs\RGB_A2CvsPPO_NormalWeather\RGB_A2CvsPPO_NormalWeather_similarity_summary.csv'.

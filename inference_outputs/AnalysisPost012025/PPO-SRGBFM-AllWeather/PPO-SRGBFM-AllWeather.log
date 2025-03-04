@@ -1,0 +1,14 @@
+2025-02-09 23:23:59,481 [INFO] Logging initialized for scenario: 'PPO-SRGBFM-AllWeather'
+2025-02-09 23:23:59,482 [INFO] Scenario='PPO-SRGBFM-AllWeather', Filenames=['inference_outputs\\PPO_All_FM_SRGB\\PPO_All_FM_SRGB_positions.csv', 'inference_outputs\\PPO_All_FM_SRGB_LF\\PPO_All_FM_SRGB_LF_positions.csv', 'inference_outputs\\PPO_All_FM_SRGB_RF\\PPO_All_FM_SRGB_RF_positions.csv', 'inference_outputs\\PPO_All_FM_SRGB_SO\\PPO_All_FM_SRGB_SO_positions.csv']
+2025-02-09 23:23:59,482 [INFO] Plotting multiple mean trajectories with circular 'Passages' only.
+2025-02-09 23:23:59,604 [INFO] Successfully read 'inference_outputs\PPO_All_FM_SRGB\PPO_All_FM_SRGB_positions.csv'.
+2025-02-09 23:23:59,640 [INFO] Successfully read 'inference_outputs\PPO_All_FM_SRGB_LF\PPO_All_FM_SRGB_LF_positions.csv'.
+2025-02-09 23:23:59,673 [INFO] Successfully read 'inference_outputs\PPO_All_FM_SRGB_RF\PPO_All_FM_SRGB_RF_positions.csv'.
+2025-02-09 23:23:59,698 [INFO] Successfully read 'inference_outputs\PPO_All_FM_SRGB_SO\PPO_All_FM_SRGB_SO_positions.csv'.
+2025-02-09 23:23:59,725 [INFO] Walls determined at: [3.7, 7.4, 11.100000000000001, 14.8, 18.5, 22.2]
+2025-02-09 23:23:59,727 [INFO] Plotted mean trajectory from 'PPO_All_FM_SRGB_positions.csv' with label 'PPO-SRGBFM  under Normal Weather' in color 'blue'.
+2025-02-09 23:23:59,728 [INFO] Plotted mean trajectory from 'PPO_All_FM_SRGB_LF_positions.csv' with label 'PPO_All_FM_SRGB_LF_positions.csv' in color 'green'.
+2025-02-09 23:23:59,728 [INFO] Plotted mean trajectory from 'PPO_All_FM_SRGB_RF_positions.csv' with label 'PPO-SRGBFM under RainandFog Weather' in color 'orange'.
+2025-02-09 23:23:59,729 [INFO] Plotted mean trajectory from 'PPO_All_FM_SRGB_SO_positions.csv' with label 'PPO-SRGBFM  under SnowOnly Weather' in color 'purple'.
+2025-02-09 23:23:59,893 [WARNING] No data near wall at X=22.2. Skipping hole creation.
+2025-02-09 23:24:00,336 [INFO] Mean trajectories saved as 'inference_outputs\PPO-SRGBFM-AllWeather\PPO-SRGBFM-AllWeather_mean_trajectories.png' with circular 'Passages' only, no similarity.
